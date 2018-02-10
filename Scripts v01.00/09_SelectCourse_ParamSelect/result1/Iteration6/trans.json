@@ -1,0 +1,22 @@
+[
+    {
+        "transactionName": "Trans_Login",
+        "rawStartTime": 1516831308972,
+        "rawEndTime": 1516831311580
+    },
+    {
+        "transactionName": "trans_login_credentials",
+        "rawStartTime": 1516831311583,
+        "rawEndTime": 1516831325404
+    },
+    {
+        "transactionName": "trans_select_course",
+        "rawStartTime": 1516831325409,
+        "rawEndTime": 1516831328425
+    },
+    {
+        "transactionName": "trans_logout",
+        "rawStartTime": 1516831328428,
+        "rawEndTime": 1516831334693
+    }
+]

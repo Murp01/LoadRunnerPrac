@@ -1,0 +1,12 @@
+Start auto log messages stack.	[MsgId: MMSG-10546]
+Virtual User Script started at: 21/01/2018 11:51:32	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 12.55.0 for Windows 10; build 911 (Jul 24 2017 19:46:00)  	[MsgId: MMSG-26983]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko  	[MsgId: MMSG-26988]
+Run-Time Settings file: "C:\Users\paul\AppData\Local\Temp\lr5tmpdirHIG.130\lrcfgZ7W.131\cfgpAs.164"  	[MsgId: MMSG-27141]
+vuser_init.c(12): web_url("moodle") started  	[MsgId: MMSG-26355]
+vuser_init.c(12): Error -27792: Failed to connect to server "localhost:80": [10061] Connection refused  	[MsgId: MERR-27792]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+

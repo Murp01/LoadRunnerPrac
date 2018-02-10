@@ -1,0 +1,13 @@
+[t25]
+FileName1=t25.html
+URL1=http://localhost/moodle/login/index.php
+Total=2
+RequestHeaderFile=t25_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t25_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_25.xml
+FileName2=t25_help.png
+URL2=http://localhost/moodle/theme/image.php/afterburner/core/1409244180/help
+[ProtocolInfo]
+ProtocolId=QTWeb

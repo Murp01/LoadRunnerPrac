@@ -1,0 +1,11 @@
+[t22]
+FileName1=t22_yui_combo.html
+URL1=http://localhost/moodle/theme/yui_combo.php?moodle/1409244180/block_navigation/navigation/navigation.js
+Total=1
+ContentType=application/javascript
+SnapshotXmlFile=snapshot_22.xml
+RequestHeaderFile=t22_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t22_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

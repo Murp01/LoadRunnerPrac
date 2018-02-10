@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\paul\Documents\VuGen\Scripts v01.00\10_URL_CheckpointShortened
+-IC:\Program Files (x86)\HPE\LoadRunner\include
+-ec:\users\paul\documents\vugen\scripts v01.00\10_url_checkpointshortened\\logfile.log
+c:\users\paul\documents\vugen\scripts v01.00\10_url_checkpointshortened\\combined_10_URL_CheckpointShortened.c
+c:\users\paul\documents\vugen\scripts v01.00\10_url_checkpointshortened\\pre_cci.c

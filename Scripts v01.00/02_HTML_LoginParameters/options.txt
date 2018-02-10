@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\paul\Documents\VuGen\Scripts v01.00\02_HTML_LoginParameters
+-IC:\Program Files (x86)\HPE\LoadRunner\include
+-ec:\users\paul\documents\vugen\scripts v01.00\02_html_loginparameters\\logfile.log
+c:\users\paul\documents\vugen\scripts v01.00\02_html_loginparameters\\combined_02_HTML_LoginParameters.c
+c:\users\paul\documents\vugen\scripts v01.00\02_html_loginparameters\\pre_cci.c

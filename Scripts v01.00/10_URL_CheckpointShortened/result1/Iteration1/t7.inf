@@ -1,0 +1,22 @@
+[t7]
+FileName2=t6_3_image.png
+RawStepEndTime=0
+FileName5=t2_0_image.jpe
+FileName4=t3_1_image.jpe
+RequestBodyFile=t7_RequestBody.txt
+RawStepName=index.php_2
+ContentType=text/html
+URL1=http://localhost/moodle/
+URL2=http://localhost/moodle/theme/image.php/afterburner/core/1409244180/help
+URL3=http://localhost/moodle/theme/image.php/afterburner/theme/1409244180/images/light3
+ResponseHeaderFile=t7_ResponseHeader.txt
+URL4=http://localhost/moodle/theme/image.php/afterburner/theme/1409244180/images/logo
+URL5=http://localhost/moodle/theme/image.php/afterburner/theme/1409244180/core/bground
+SnapshotXmlFile=snapshot_7.xml
+RequestHeaderFile=t7_RequestHeader.txt
+SaveSnapshotResources=1
+RawStepStartTime=1517175570136
+Total=5
+StepName=Submit Data: index.php_2
+FileName1=t7.html
+FileName3=t4_2_image.png

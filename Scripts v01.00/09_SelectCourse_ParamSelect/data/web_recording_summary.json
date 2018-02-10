@@ -1,0 +1,682 @@
+{
+  "FilterHeaders": [
+    {
+      "Header": "user-agent",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "ua-cpu",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "dnt",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "cache-control",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept-language",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept-encoding",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept",
+      "IncludeInScript": false
+    }
+  ],
+  "FilterResources": [
+    {
+      "IsNonResource": true,
+      "type": "text/xml"
+    },
+    {
+      "IsNonResource": true,
+      "type": "text/html"
+    },
+    {
+      "IsNonResource": false,
+      "type": "text/css"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/vnd.microsoft.icon"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/png"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/jpeg"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/gif"
+    },
+    {
+      "IsNonResource": false,
+      "type": "application/octet-stream"
+    },
+    {
+      "IsNonResource": false,
+      "type": "application/javascript"
+    }
+  ],
+  "GeneralInfo": {
+    "BrowserVersion": "",
+    "MaxUsedConnections": 20,
+    "RecordedBrowser": "Internet Explorer",
+    "RecordingDate": "Jan-22-2018",
+    "RecordingDuration": 245187,
+    "RecordingTimeStamp": 1516654868,
+    "TotalBytesReceived": 722615,
+    "TotalBytesSent": 29917,
+    "TotalRequests": 61
+  },
+  "HostInfo": [
+    {
+      "DomainName": "microsoft.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "93.184.221.200",
+          "IncludeInScript": true,
+          "Name": "iecvlist.microsoft.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/xml",
+              "DownloadTime": 125,
+              "EventId": 151,
+              "HttpStatus": 200,
+              "Size": 28116,
+              "URL": "https://iecvlist.microsoft.com/IE11/1478281996/iecompatviewlist.xml"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES128-SHA",
+          "SSLVersion": "TLS1.1"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "52.164.227.208",
+          "IncludeInScript": true,
+          "Name": "c.urs.microsoft.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "application/octet-stream",
+              "DownloadTime": 250,
+              "EventId": 142,
+              "HttpStatus": 200,
+              "Size": 80,
+              "URL": "https://c.urs.microsoft.com/l1.dat?cw=636522320666711122&v=3&cv=9.11.16299.0&os=10.0.16299.0.0&pg=4A72F430-B40C-4D36-A068-CE33ADA5ADF9"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES256-SHA",
+          "SSLVersion": "TLS1.1"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "localhost",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "[::1]",
+          "IncludeInScript": true,
+          "Name": "localhost",
+          "Port": 80,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 1860,
+              "EventId": 266,
+              "HttpStatus": 200,
+              "Size": 101301,
+              "URL": "http://localhost/moodle/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 2140,
+              "EventId": 264,
+              "HttpStatus": 303,
+              "Size": 553,
+              "URL": "http://localhost/moodle/login/logout.php?sesskey=1EeG7FZKfh"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 79,
+              "EventId": 253,
+              "HttpStatus": 200,
+              "Size": 13746,
+              "URL": "http://localhost/moodle/theme/yui_combo.php?3.5.1/build/attribute-core/attribute-core-min.js&3.5.1/build/base-core/base-core-min.js&3.5.1/build/event-custom-complex/event-custom-complex-min.js&3.5.1/build/attribute-events/attribute-events-min.js&3.5.1/build/attribute-extras/attribute-extras-min.js&3.5.1/build/attribute-base/attribute-base-min.js&3.5.1/build/base-base/base-base-min.js&3.5.1/build/base-pluginhost/base-pluginhost-min.js&3.5.1/build/base-build/base-build-min.js&3.5.1/build/event-synthetic/event-synthetic-min.js&3.5.1/build/event-mouseenter/event-mouseenter-min.js&3.5.1/build/event-resize/event-resize-min.js&moodle/1409244180/block_navigation/navigation/navigation.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 31,
+              "EventId": 251,
+              "HttpStatus": 200,
+              "Size": 373,
+              "URL": "http://localhost/moodle/lib/javascript.php/1409244180/course/format/topics/format.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 47,
+              "EventId": 249,
+              "HttpStatus": 200,
+              "Size": 784,
+              "URL": "http://localhost/moodle/theme/image.php/afterburner/core/1409244180/i/return"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 47,
+              "EventId": 247,
+              "HttpStatus": 200,
+              "Size": 722,
+              "URL": "http://localhost/moodle/theme/image.php/afterburner/core/1409244180/i/restore"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 187,
+              "EventId": 245,
+              "HttpStatus": 200,
+              "Size": 870,
+              "URL": "http://localhost/moodle/theme/image.php/afterburner/core/1409244180/i/group"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 32,
+              "EventId": 243,
+              "HttpStatus": 200,
+              "Size": 664,
+              "URL": "http://localhost/moodle/theme/image.php/afterburner/core/1409244180/i/backup"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 250,
+              "EventId": 241,
+              "HttpStatus": 200,
+              "Size": 130,
+              "URL": "http://localhost/moodle/theme/image.php/afterburner/core/1409244180/t/expanded"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 47,
+              "EventId": 239,
+              "HttpStatus": 200,
+              "Size": 611,
+              "URL": "http://localhost/moodle/theme/image.php/afterburner/core/1409244180/i/grades"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 78,
+              "EventId": 237,
+              "HttpStatus": 200,
+              "Size": 844,
+              "URL": "http://localhost/moodle/theme/image.php/afterburner/core/1409244180/i/checkpermissions"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 46,
+              "EventId": 235,
+              "HttpStatus": 200,
+              "Size": 825,
+              "URL": "http://localhost/moodle/theme/image.php/afterburner/core/1409244180/i/roles"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 46,
+              "EventId": 233,
+              "HttpStatus": 200,
+              "Size": 591,
+              "URL": "http://localhost/moodle/theme/image.php/afterburner/core/1409244180/i/filter"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 62,
+              "EventId": 231,
+              "HttpStatus": 200,
+              "Size": 870,
+              "URL": "http://localhost/moodle/theme/image.php/afterburner/core/1409244180/i/users"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 140,
+              "EventId": 229,
+              "HttpStatus": 200,
+              "Size": 661,
+              "URL": "http://localhost/moodle/theme/image.php/afterburner/quiz/1409244180/icon"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 62,
+              "EventId": 227,
+              "HttpStatus": 200,
+              "Size": 379,
+              "URL": "http://localhost/moodle/theme/image.php/afterburner/core/1409244180/i/edit"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 110,
+              "EventId": 225,
+              "HttpStatus": 200,
+              "Size": 132,
+              "URL": "http://localhost/moodle/theme/image.php/afterburner/assign/1409244180/icon"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 47,
+              "EventId": 223,
+              "HttpStatus": 200,
+              "Size": 493,
+              "URL": "http://localhost/moodle/theme/image.php/afterburner/core/1409244180/i/report"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 63,
+              "EventId": 221,
+              "HttpStatus": 200,
+              "Size": 650,
+              "URL": "http://localhost/moodle/theme/image.php/afterburner/glossary/1409244180/icon"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 31,
+              "EventId": 219,
+              "HttpStatus": 200,
+              "Size": 211,
+              "URL": "http://localhost/moodle/theme/image.php/afterburner/book/1409244180/icon"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 94,
+              "EventId": 213,
+              "HttpStatus": 200,
+              "Size": 674,
+              "URL": "http://localhost/moodle/theme/image.php/afterburner/forum/1409244180/icon"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 78,
+              "EventId": 211,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "http://localhost/moodle/theme/image.php/afterburner/core/1409244180/spacer"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 3328,
+              "EventId": 201,
+              "HttpStatus": 200,
+              "Size": 93677,
+              "URL": "http://localhost/moodle/course/view.php?id=101"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 78,
+              "EventId": 195,
+              "HttpStatus": 200,
+              "Size": 736,
+              "URL": "http://localhost/moodle/theme/image.php/afterburner/core/1409244180/i/settings"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 3500,
+              "EventId": 177,
+              "HttpStatus": 200,
+              "Size": 129936,
+              "URL": "http://localhost/moodle/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 1860,
+              "EventId": 175,
+              "HttpStatus": 303,
+              "Size": 553,
+              "URL": "http://localhost/moodle/login/index.php?testsession=3"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 2766,
+              "EventId": 173,
+              "HttpStatus": 303,
+              "Size": 582,
+              "URL": "http://localhost/moodle/login/index.php"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 31,
+              "EventId": 164,
+              "HttpStatus": 200,
+              "Size": 766,
+              "URL": "http://localhost/moodle/theme/image.php/afterburner/core/1409244180/help"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 1625,
+              "EventId": 160,
+              "HttpStatus": 200,
+              "Size": 22929,
+              "URL": "http://localhost/moodle/login/index.php"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/vnd.microsoft.icon",
+              "DownloadTime": 47,
+              "EventId": 126,
+              "HttpStatus": 200,
+              "Size": 894,
+              "URL": "http://localhost/moodle/theme/image.php/afterburner/theme/1409244180/favicon"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 31,
+              "EventId": 113,
+              "HttpStatus": 200,
+              "Size": 124,
+              "URL": "http://localhost/moodle/theme/image.php/afterburner/core/1409244180/t/switch_plus"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 31,
+              "EventId": 111,
+              "HttpStatus": 200,
+              "Size": 119,
+              "URL": "http://localhost/moodle/theme/image.php/afterburner/core/1409244180/t/switch_minus"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 47,
+              "EventId": 108,
+              "HttpStatus": 200,
+              "Size": 19890,
+              "URL": "http://localhost/moodle/theme/yui_combo.php?3.5.1/build/attribute-complex/attribute-complex-min.js&3.5.1/build/classnamemanager/classnamemanager-min.js&3.5.1/build/event-focus/event-focus-min.js&3.5.1/build/widget-base/widget-base-min.js&3.5.1/build/widget-htmlparser/widget-htmlparser-min.js&3.5.1/build/widget-skin/widget-skin-min.js&3.5.1/build/widget-uievents/widget-uievents-min.js&3.5.1/build/widget-stdmod/widget-stdmod-min.js&3.5.1/build/widget-position/widget-position-min.js&3.5.1/build/widget-position-align/widget-position-align-min.js&3.5.1/build/widget-stack/widget-stack-min.js&3.5.1/build/widget-position-constrain/widget-position-constrain-min.js&3.5.1/build/overlay/overlay-min.js&3.5.1/build/event-simulate/event-simulate-min.js&3.5.1/build/substitute/substitute-min.js&3.5.1/build/json-stringify/json-stringify-min.js&3.5.1/build/test/test-min.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/css",
+              "DownloadTime": 63,
+              "EventId": 106,
+              "HttpStatus": 200,
+              "Size": 603,
+              "URL": "http://localhost/moodle/theme/yui_combo.php?3.5.1/build/overlay/assets/skins/sam/overlay.css&3.5.1/build/widget-base/assets/skins/sam/widget-base.css&3.5.1/build/widget-stack/assets/skins/sam/widget-stack.css&3.5.1/build/test/assets/skins/sam/test.css&moodle/1409244180/calendar/eventmanager/eventmanager.css"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 63,
+              "EventId": 104,
+              "HttpStatus": 200,
+              "Size": 1244,
+              "URL": "http://localhost/moodle/theme/yui_combo.php?moodle/1409244180/calendar/eventmanager/eventmanager.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 46,
+              "EventId": 102,
+              "HttpStatus": 200,
+              "Size": 236,
+              "URL": "http://localhost/moodle/theme/image.php/afterburner/core/1409244180/t/block_to_dock"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 15,
+              "EventId": 100,
+              "HttpStatus": 200,
+              "Size": 3184,
+              "URL": "http://localhost/moodle/theme/yui_combo.php?3.5.1/build/querystring-stringify-simple/querystring-stringify-simple-min.js&3.5.1/build/io-base/io-base-min.js&3.5.1/build/json-parse/json-parse-min.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 78,
+              "EventId": 98,
+              "HttpStatus": 200,
+              "Size": 5048,
+              "URL": "http://localhost/moodle/theme/yui_combo.php?moodle/1409244180/block_navigation/navigation/navigation.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 16,
+              "EventId": 96,
+              "HttpStatus": 200,
+              "Size": 238,
+              "URL": "http://localhost/moodle/theme/image.php/afterburner/core/1409244180/t/dock_to_block"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 32,
+              "EventId": 93,
+              "HttpStatus": 200,
+              "Size": 8851,
+              "URL": "http://localhost/moodle/theme/yui_combo.php?3.5.1/build/attribute-core/attribute-core-min.js&3.5.1/build/base-core/base-core-min.js&3.5.1/build/event-custom-complex/event-custom-complex-min.js&3.5.1/build/attribute-events/attribute-events-min.js&3.5.1/build/attribute-extras/attribute-extras-min.js&3.5.1/build/attribute-base/attribute-base-min.js&3.5.1/build/base-base/base-base-min.js&3.5.1/build/base-pluginhost/base-pluginhost-min.js&3.5.1/build/base-build/base-build-min.js&3.5.1/build/event-synthetic/event-synthetic-min.js&3.5.1/build/event-mouseenter/event-mouseenter-min.js&3.5.1/build/event-resize/event-resize-min.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 15,
+              "EventId": 91,
+              "HttpStatus": 200,
+              "Size": 5979,
+              "URL": "http://localhost/moodle/lib/javascript.php/1409244180/blocks/dock.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 47,
+              "EventId": 88,
+              "HttpStatus": 200,
+              "Size": 22699,
+              "URL": "http://localhost/moodle/theme/yui_combo.php?3.5.1/build/oop/oop-min.js&3.5.1/build/event-custom-base/event-custom-base-min.js&3.5.1/build/dom-core/dom-core-min.js&3.5.1/build/dom-base/dom-base-min.js&3.5.1/build/selector-native/selector-native-min.js&3.5.1/build/selector/selector-min.js&3.5.1/build/node-core/node-core-min.js&3.5.1/build/node-base/node-base-min.js&3.5.1/build/event-base/event-base-min.js&3.5.1/build/event-delegate/event-delegate-min.js&3.5.1/build/node-event-delegate/node-event-delegate-min.js&3.5.1/build/pluginhost-base/pluginhost-base-min.js&3.5.1/build/pluginhost-config/pluginhost-config-min.js&3.5.1/build/node-pluginhost/node-pluginhost-min.js&3.5.1/build/dom-style/dom-style-min.js&3.5.1/build/dom-screen/dom-screen-min.js&3.5.1/build/node-screen/node-screen-min.js&3.5.1/build/node-style/node-style-min.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 141,
+              "EventId": 86,
+              "HttpStatus": 200,
+              "Size": 133,
+              "URL": "http://localhost/moodle/theme/image.php/afterburner/core/1409244180/t/collapsed"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 157,
+              "EventId": 84,
+              "HttpStatus": 200,
+              "Size": 20,
+              "URL": "http://localhost/moodle/theme/javascript.php/afterburner/1409244180/footer"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 62,
+              "EventId": 81,
+              "HttpStatus": 200,
+              "Size": 20590,
+              "URL": "http://localhost/moodle/theme/image.php/afterburner/theme/1409244180/core/h2grad"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 140,
+              "EventId": 79,
+              "HttpStatus": 200,
+              "Size": 210,
+              "URL": "http://localhost/moodle/theme/image.php/afterburner/core/1409244180/i/navigationitem"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 125,
+              "EventId": 76,
+              "HttpStatus": 200,
+              "Size": 1940,
+              "URL": "http://localhost/moodle/theme/image.php/afterburner/theme/1409244180/footer/moodle-logo"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 15,
+              "EventId": 53,
+              "HttpStatus": 200,
+              "Size": 675,
+              "URL": "http://localhost/moodle/theme/image.php/afterburner/enrol_self/1409244180/withoutkey"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 47,
+              "EventId": 50,
+              "HttpStatus": 200,
+              "Size": 10315,
+              "URL": "http://localhost/moodle/theme/image.php/afterburner/theme/1409244180/images/light3"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 32,
+              "EventId": 48,
+              "HttpStatus": 200,
+              "Size": 10119,
+              "URL": "http://localhost/moodle/theme/image.php/afterburner/theme/1409244180/images/logo"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 47,
+              "EventId": 46,
+              "HttpStatus": 200,
+              "Size": 321,
+              "URL": "http://localhost/moodle/theme/image.php/afterburner/theme/1409244180/core/bground"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/css",
+              "DownloadTime": 672,
+              "EventId": 42,
+              "HttpStatus": 200,
+              "Size": 16703,
+              "URL": "http://localhost/moodle/theme/yui_combo.php?2.9.0/build/assets/skins/sam/skin.css"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 531,
+              "EventId": 39,
+              "HttpStatus": 200,
+              "Size": 8431,
+              "URL": "http://localhost/moodle/theme/yui_combo.php?2.9.0/build/yahoo/yahoo-min.js&2.9.0/build/dom/dom-min.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/css",
+              "DownloadTime": 407,
+              "EventId": 36,
+              "HttpStatus": 200,
+              "Size": 1170,
+              "URL": "http://localhost/moodle/theme/yui_combo.php?3.5.1/build/cssreset/reset-min.css&3.5.1/build/cssfonts/fonts-min.css&3.5.1/build/cssgrids/grids-min.css&3.5.1/build/cssbase/base-min.css"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/css",
+              "DownloadTime": 390,
+              "EventId": 32,
+              "HttpStatus": 200,
+              "Size": 43479,
+              "URL": "http://localhost/moodle/theme/styles.php/afterburner/1409244180/all"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 31,
+              "EventId": 30,
+              "HttpStatus": 200,
+              "Size": 20,
+              "URL": "http://localhost/moodle/theme/javascript.php/afterburner/1409244180/head"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 172,
+              "EventId": 26,
+              "HttpStatus": 200,
+              "Size": 10308,
+              "URL": "http://localhost/moodle/lib/javascript.php/1409244180/lib/javascript-static.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 157,
+              "EventId": 22,
+              "HttpStatus": 200,
+              "Size": 24269,
+              "URL": "http://localhost/moodle/theme/yui_combo.php?3.5.1/build/yui/yui-min.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 3094,
+              "EventId": 14,
+              "HttpStatus": 200,
+              "Size": 101301,
+              "URL": "http://localhost/moodle/"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        }
+      ],
+      "IncludeInScript": true
+    }
+  ],
+  "WebSocket": {
+    "IncludeInScript": false,
+    "IsScriptIncludeWebSocket": false
+  },
+  "NumberOfCorrelations": 0
+}

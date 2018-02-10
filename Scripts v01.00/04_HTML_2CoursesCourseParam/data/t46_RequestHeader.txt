@@ -1,0 +1,10 @@
+GET /moodle/theme/image.php/afterburner/core/1409244180/t/switch_plus HTTP/1.1
+Accept: image/png, image/svg+xml, image/jxr, image/*;q=0.8, */*;q=0.5
+Referer: http://localhost/moodle/
+Accept-Language: en-GB,en-US;q=0.7,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: localhost
+Connection: Keep-Alive
+Cookie: MoodleSession=h7atunbjlnednlucio83de73l5
+

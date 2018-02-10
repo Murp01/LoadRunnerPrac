@@ -1,0 +1,38 @@
+[
+    {
+        "stepId": "STEP31",
+        "stepName": "Url: moodle",
+        "infFile": "t1.inf",
+        "time": 1516831308962
+    },
+    {
+        "stepId": "STEP32",
+        "stepName": "Url: iecompatviewlist.xml",
+        "infFile": "t2.inf",
+        "time": 1516831309430
+    },
+    {
+        "stepId": "STEP33",
+        "stepName": "Url: index.php",
+        "infFile": "t3.inf",
+        "time": 1516831311577
+    },
+    {
+        "stepId": "STEP34",
+        "stepName": "Submit Form: index.php_2",
+        "infFile": "t4.inf",
+        "time": 1516831325401
+    },
+    {
+        "stepId": "STEP35",
+        "stepName": "Link: Test Course{param_randomCourse}",
+        "infFile": "t5.inf",
+        "time": 1516831328423
+    },
+    {
+        "stepId": "STEP36",
+        "stepName": "Link: Logout",
+        "infFile": "t6.inf",
+        "time": 1516831334690
+    }
+]

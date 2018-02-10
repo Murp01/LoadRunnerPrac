@@ -1,0 +1,9 @@
+GET /moodle/theme/image.php/afterburner/theme/1409244180/favicon HTTP/1.1
+Accept: */*
+UA-CPU: AMD64
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; Trident/7.0; rv:11.0) like Gecko
+Host: localhost
+DNT: 1
+Connection: Keep-Alive
+

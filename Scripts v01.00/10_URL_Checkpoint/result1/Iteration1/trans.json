@@ -1,0 +1,22 @@
+[
+    {
+        "transactionName": "Click login button",
+        "rawStartTime": 1517173681377,
+        "rawEndTime": 1517173683361
+    },
+    {
+        "transactionName": "Log in as teacher",
+        "rawStartTime": 1517173683377,
+        "rawEndTime": 1517173696612
+    },
+    {
+        "transactionName": "Click on Course",
+        "rawStartTime": 1517173696644,
+        "rawEndTime": 1517173700659
+    },
+    {
+        "transactionName": "Log out as teacher1",
+        "rawStartTime": 1517173700678,
+        "rawEndTime": 1517173702846
+    }
+]

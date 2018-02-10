@@ -1,0 +1,11 @@
+[t8]
+FileName1=t8_all.css
+URL1=http://localhost/moodle/theme/styles.php/afterburner/1409244180/all
+Total=1
+ContentType=text/css
+SnapshotXmlFile=snapshot_8.xml
+RequestHeaderFile=t8_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t8_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

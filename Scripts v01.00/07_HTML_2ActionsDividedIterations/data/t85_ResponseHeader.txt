@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Date: Sun, 14 Jan 2018 22:52:23 GMT
+Server: Apache/2.4.7 (Win32) OpenSSL/0.9.8y PHP/5.4.22
+X-Powered-By: PHP/5.4.22
+Etag: 4a0f7aa54fc65e642d5d5ad3101e10ed6f99861e
+Content-Disposition: inline; filename="bground.jpg"
+Last-Modified: Thu, 28 Dec 2017 14:40:58 GMT
+Expires: Thu, 15 Mar 2018 22:52:23 GMT
+Pragma: 
+Cache-Control: public, max-age=5184000
+Accept-Ranges: none
+Content-Length: 321
+Keep-Alive: timeout=5, max=99
+Connection: Keep-Alive
+Content-Type: image/jpeg
+

@@ -1,0 +1,11 @@
+[t102]
+FileName1=t102_icon.png
+URL1=http://localhost/moodle/theme/image.php/afterburner/book/1409244180/icon
+Total=1
+ContentType=image/png
+SnapshotXmlFile=snapshot_102.xml
+RequestHeaderFile=t102_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t102_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

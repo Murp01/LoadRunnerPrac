@@ -1,0 +1,17 @@
+[t8]
+FileName1=t8_light3.png
+URL1=http://localhost/moodle/theme/image.php/afterburner/theme/1409244180/images/light3
+Total=4
+ContentType=image/png
+SnapshotXmlFile=snapshot_8.xml
+RequestHeaderFile=t8_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t8_ResponseHeader.txt
+FileName2=t8_footer.html
+URL2=http://localhost/moodle/theme/javascript.php/afterburner/1409244180/footer
+FileName3=t8_navigationitem.png
+URL3=http://localhost/moodle/theme/image.php/afterburner/core/1409244180/i/navigationitem
+FileName4=t8_moodle-logo.png
+URL4=http://localhost/moodle/theme/image.php/afterburner/theme/1409244180/footer/moodle-logo
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,11 @@
+[t63]
+FileName1=t63_dock.html
+URL1=http://localhost/moodle/lib/javascript.php/1409244180/blocks/dock.js
+Total=1
+ContentType=application/javascript
+SnapshotXmlFile=snapshot_63.xml
+RequestHeaderFile=t63_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t63_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

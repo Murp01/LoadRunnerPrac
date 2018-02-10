@@ -1,0 +1,11 @@
+[t83]
+FileName1=t83_yui_combo.html
+URL1=http://localhost/moodle/theme/yui_combo.php?moodle/1409244180/block_navigation/navigation/navigation.js
+Total=1
+ContentType=application/javascript
+SnapshotXmlFile=snapshot_83.xml
+RequestHeaderFile=t83_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t83_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

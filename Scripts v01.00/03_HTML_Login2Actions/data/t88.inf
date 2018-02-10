@@ -1,0 +1,11 @@
+[t88]
+FileName1=t88_collapsed.png
+URL1=http://localhost/moodle/theme/image.php/afterburner/core/1409244180/t/collapsed
+Total=1
+ContentType=image/png
+SnapshotXmlFile=snapshot_88.xml
+RequestHeaderFile=t88_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t88_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

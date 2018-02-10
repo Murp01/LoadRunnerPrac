@@ -1,0 +1,11 @@
+[t123]
+FileName1=t123_yui_combo.html
+URL1=http://localhost/moodle/theme/yui_combo.php?3.5.1/build/yui/yui-min.js
+Total=1
+ContentType=application/javascript
+SnapshotXmlFile=snapshot_123.xml
+RequestHeaderFile=t123_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t123_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

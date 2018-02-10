@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\paul\Documents\VuGen\Scripts v01.00\13_URL_RendevousPoint
+-IC:\Program Files (x86)\HPE\LoadRunner\include
+-ec:\users\paul\documents\vugen\scripts v01.00\13_url_rendevouspoint\\logfile.log
+c:\users\paul\documents\vugen\scripts v01.00\13_url_rendevouspoint\\combined_13_URL_RendevousPoint.c
+c:\users\paul\documents\vugen\scripts v01.00\13_url_rendevouspoint\\pre_cci.c

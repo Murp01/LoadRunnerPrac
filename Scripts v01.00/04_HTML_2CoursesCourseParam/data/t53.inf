@@ -1,0 +1,11 @@
+[t53]
+FileName1=t53_javascript-static.html
+URL1=http://localhost/moodle/lib/javascript.php/1409244180/lib/javascript-static.js
+Total=1
+ContentType=application/javascript
+SnapshotXmlFile=snapshot_53.xml
+RequestHeaderFile=t53_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t53_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

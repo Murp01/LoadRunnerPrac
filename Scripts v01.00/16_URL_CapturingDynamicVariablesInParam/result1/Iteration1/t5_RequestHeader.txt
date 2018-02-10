@@ -1,0 +1,10 @@
+GET /moodle/login/signup.php HTTP/1.1
+Referer: http://localhost/moodle/login/index.php
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Accept-Language: en-GB,en-US;q=0.7,en;q=0.3
+Accept: */*
+Connection: Keep-Alive
+Host: localhost
+Cookie: MoodleSession=oinr1p5olhj5d6j0bft90ui4s7
+

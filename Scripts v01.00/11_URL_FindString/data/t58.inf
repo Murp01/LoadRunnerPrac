@@ -1,0 +1,11 @@
+[t58]
+FileName1=t58_filter.png
+URL1=http://localhost/moodle/theme/image.php/afterburner/core/1409244180/i/filter
+Total=1
+ContentType=image/png
+SnapshotXmlFile=snapshot_58.xml
+RequestHeaderFile=t58_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t58_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

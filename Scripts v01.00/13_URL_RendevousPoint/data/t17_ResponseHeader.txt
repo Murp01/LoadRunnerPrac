@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Date: Thu, 25 Jan 2018 21:46:47 GMT
+Server: Apache/2.4.7 (Win32) OpenSSL/0.9.8y PHP/5.4.22
+X-Powered-By: PHP/5.4.22
+Etag: a7362987282b9534e0e9ef2463df952e2ff34e9f
+Content-Disposition: inline; filename="h2grad.jpg"
+Last-Modified: Thu, 28 Dec 2017 14:41:00 GMT
+Expires: Mon, 26 Mar 2018 21:46:47 GMT
+Pragma: 
+Cache-Control: public, max-age=5184000
+Accept-Ranges: none
+Content-Length: 20590
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: image/jpeg
+

@@ -1,0 +1,17 @@
+[t3]
+FileName1=t3.html
+URL1=http://localhost/moodle/
+Total=4
+RequestHeaderFile=t3_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t3_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_3.xml
+FileName2=t3_yui_combo.css
+URL2=http://localhost/moodle/theme/yui_combo.php?3.5.1/build/cssreset/reset-min.css&3.5.1/build/cssfonts/fonts-min.css&3.5.1/build/cssgrids/grids-min.css&3.5.1/build/cssbase/base-min.css
+FileName3=t3_yui_combo.html
+URL3=http://localhost/moodle/theme/yui_combo.php?3.5.1/build/yui/yui-min.js
+FileName4=t3_yui_combo.html
+URL4=http://localhost/moodle/theme/yui_combo.php?2.9.0/build/yahoo/yahoo-min.js&2.9.0/build/dom/dom-min.js
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Date: Fri, 02 Feb 2018 17:56:23 GMT
+Server: Apache/2.4.7 (Win32) OpenSSL/0.9.8y PHP/5.4.22
+X-Powered-By: PHP/5.4.22
+Etag: 3fe6b25b65e4e0fcfb74cabb49ccddf4d9f357ad
+Content-Disposition: inline; filename="moodle-logo.png"
+Last-Modified: Thu, 28 Dec 2017 14:40:59 GMT
+Expires: Tue, 03 Apr 2018 17:56:23 GMT
+Pragma: 
+Cache-Control: public, max-age=5184000
+Accept-Ranges: none
+Content-Length: 1940
+Keep-Alive: timeout=5, max=98
+Connection: Keep-Alive
+Content-Type: image/png
+

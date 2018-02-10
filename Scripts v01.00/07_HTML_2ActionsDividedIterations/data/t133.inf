@@ -1,0 +1,13 @@
+[t133]
+FileName1=t133.html
+URL1=http://localhost/moodle/login/index.php
+Total=2
+RequestHeaderFile=t133_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t133_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_133.xml
+FileName2=t133_help.png
+URL2=http://localhost/moodle/theme/image.php/afterburner/core/1409244180/help
+[ProtocolInfo]
+ProtocolId=QTWeb

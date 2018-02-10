@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Date: Thu, 25 Jan 2018 21:59:21 GMT
+Server: Apache/2.4.7 (Win32) OpenSSL/0.9.8y PHP/5.4.22
+X-Powered-By: PHP/5.4.22
+Etag: f192ffd6138d91a23e3647ec7684ce5fb1b48b7b
+Content-Disposition: inline; filename="help.png"
+Last-Modified: Fri, 29 Dec 2017 00:25:55 GMT
+Expires: Mon, 26 Mar 2018 21:59:21 GMT
+Pragma: 
+Cache-Control: public, max-age=5184000
+Accept-Ranges: none
+Content-Length: 766
+Keep-Alive: timeout=5, max=99
+Connection: Keep-Alive
+Content-Type: image/png
+

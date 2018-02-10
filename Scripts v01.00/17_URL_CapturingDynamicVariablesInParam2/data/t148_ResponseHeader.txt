@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Date: Fri, 02 Feb 2018 17:56:25 GMT
+Server: Apache/2.4.7 (Win32) OpenSSL/0.9.8y PHP/5.4.22
+X-Powered-By: PHP/5.4.22
+Etag: 933a34e0a6a75a392ed7e73b35ec9234711b853e
+Content-Disposition: inline; filename="switch_plus.gif"
+Last-Modified: Thu, 28 Dec 2017 14:41:03 GMT
+Expires: Tue, 03 Apr 2018 17:56:25 GMT
+Pragma: 
+Cache-Control: public, max-age=5184000
+Accept-Ranges: none
+Content-Length: 124
+Keep-Alive: timeout=5, max=92
+Connection: Keep-Alive
+Content-Type: image/gif
+

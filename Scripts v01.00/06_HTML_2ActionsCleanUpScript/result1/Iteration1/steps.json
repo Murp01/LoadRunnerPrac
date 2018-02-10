@@ -1,0 +1,44 @@
+[
+    {
+        "stepId": "STEP3",
+        "stepName": "Url: index.php",
+        "infFile": "t3.inf",
+        "time": 1515971631555
+    },
+    {
+        "stepId": "STEP4",
+        "stepName": "Submit Form: index.php_2",
+        "infFile": "t4.inf",
+        "time": 1515971645272
+    },
+    {
+        "stepId": "STEP5",
+        "stepName": "Link: Logout",
+        "infFile": "t5.inf",
+        "time": 1515971650770
+    },
+    {
+        "stepId": "STEP6",
+        "stepName": "Url: index.php",
+        "infFile": "t6.inf",
+        "time": 1515971652864
+    },
+    {
+        "stepId": "STEP7",
+        "stepName": "Submit Form: index.php_2",
+        "infFile": "t7.inf",
+        "time": 1515971661948
+    },
+    {
+        "stepId": "STEP8",
+        "stepName": "Link: Test Course100",
+        "infFile": "t8.inf",
+        "time": 1515971665418
+    },
+    {
+        "stepId": "STEP9",
+        "stepName": "Link: Logout",
+        "infFile": "t9.inf",
+        "time": 1515971671306
+    }
+]

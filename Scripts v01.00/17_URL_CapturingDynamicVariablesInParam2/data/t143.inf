@@ -1,0 +1,11 @@
+[t143]
+FileName1=t143_block_to_dock.png
+URL1=http://localhost/moodle/theme/image.php/afterburner/core/1409244180/t/block_to_dock
+Total=1
+ContentType=image/png
+SnapshotXmlFile=snapshot_143.xml
+RequestHeaderFile=t143_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t143_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

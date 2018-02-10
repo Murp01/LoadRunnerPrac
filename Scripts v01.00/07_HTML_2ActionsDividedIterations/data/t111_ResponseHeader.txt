@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+Date: Sun, 14 Jan 2018 23:33:03 GMT
+Server: Apache/2.4.7 (Win32) OpenSSL/0.9.8y PHP/5.4.22
+X-Powered-By: PHP/5.4.22
+Etag: 76e203ea5a8c5cd5997f282bf1a9426b4e5d77d7
+Content-Disposition: inline; filename="javascript.php"
+Last-Modified: Thu, 28 Dec 2017 14:40:50 GMT
+Expires: Thu, 15 Mar 2018 23:33:03 GMT
+Pragma: 
+Cache-Control: public, max-age=5184000
+Accept-Ranges: none
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Content-Length: 20
+Keep-Alive: timeout=5, max=99
+Connection: Keep-Alive
+Content-Type: application/javascript; charset=utf-8
+

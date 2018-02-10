@@ -1,0 +1,11 @@
+[t69]
+FileName1=t69_yui_combo.html
+URL1=http://localhost/moodle/theme/yui_combo.php?moodle/1409244180/calendar/eventmanager/eventmanager.js
+Total=1
+ContentType=application/javascript
+SnapshotXmlFile=snapshot_69.xml
+RequestHeaderFile=t69_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t69_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

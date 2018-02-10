@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Date: Sun, 14 Jan 2018 21:23:33 GMT
+Server: Apache/2.4.7 (Win32) OpenSSL/0.9.8y PHP/5.4.22
+X-Powered-By: PHP/5.4.22
+Etag: 177fe704a02dba0d4d0249cb04e5d91b9bf3383a
+Content-Disposition: inline; filename="logo.jpg"
+Last-Modified: Fri, 29 Dec 2017 00:21:59 GMT
+Expires: Thu, 15 Mar 2018 21:23:33 GMT
+Pragma: 
+Cache-Control: public, max-age=5184000
+Accept-Ranges: none
+Content-Length: 10119
+Keep-Alive: timeout=5, max=99
+Connection: Keep-Alive
+Content-Type: image/jpeg
+

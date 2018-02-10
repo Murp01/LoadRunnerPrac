@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Date: Sun, 14 Jan 2018 22:52:29 GMT
+Server: Apache/2.4.7 (Win32) OpenSSL/0.9.8y PHP/5.4.22
+X-Powered-By: PHP/5.4.22
+Etag: ae74a1efd9c962a6b108e3b1072706228d56416a
+Content-Disposition: inline; filename="block_to_dock.png"
+Last-Modified: Thu, 28 Dec 2017 14:41:02 GMT
+Expires: Thu, 15 Mar 2018 22:52:29 GMT
+Pragma: 
+Cache-Control: public, max-age=5184000
+Accept-Ranges: none
+Content-Length: 236
+Keep-Alive: timeout=5, max=94
+Connection: Keep-Alive
+Content-Type: image/png
+

@@ -1,0 +1,32 @@
+[
+    {
+        "stepId": "STEP1",
+        "stepName": "Url: moodle",
+        "infFile": "t1.inf",
+        "time": 1517562594938
+    },
+    {
+        "stepId": "STEP2",
+        "stepName": "Url: index.php",
+        "infFile": "t4.inf",
+        "time": 1517562597034
+    },
+    {
+        "stepId": "STEP3",
+        "stepName": "Submit Data: index.php_2",
+        "infFile": "t5.inf",
+        "time": 1517562611895
+    },
+    {
+        "stepId": "STEP4",
+        "stepName": "Url: Test Course100",
+        "infFile": "t6.inf",
+        "time": 1517562614798
+    },
+    {
+        "stepId": "STEP5",
+        "stepName": "Url: Logout",
+        "infFile": "t7.inf",
+        "time": 1517562616888
+    }
+]

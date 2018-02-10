@@ -1,0 +1,66 @@
+Warning: Failed to post to 'http://127.0.0.1:8182/shunra/api/emulation/packetCaptureOnly', retcode=7.
+Warning: Failed to start NV emulation. Perhaps the NV server is not working, and therefore a NV report will not be generated.
+Virtual User Script started at: 02/02/2018 09:09:46
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 12.55.0 for Windows 10; build 911 (Jul 24 2017 19:46:00)  	[MsgId: MMSG-26983]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko  	[MsgId: MMSG-26988]
+Run-Time Settings file: "C:\Users\paul\Documents\VuGen\Scripts v01.00\13_URL_RendevousPoint\\default.cfg"  	[MsgId: MMSG-27141]
+Warning: Failed to get NV emulation handle.
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
+Starting action Action.
+Warning: Failed to get NV emulation handle.
+Action.c(3): web_url("moodle") started  	[MsgId: MMSG-26355]
+Action.c(3): web_url("moodle") was successful, 101329 body bytes, 669 header bytes, 85 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(12): web_concurrent_start started  	[MsgId: MMSG-26355]
+Action.c(12): web_concurrent_start was successful  	[MsgId: MMSG-26392]
+Action.c(14): web_url("logo") started  	[MsgId: MMSG-26355]
+Action.c(14): Registering web_url("logo") was successful  	[MsgId: MMSG-26390]
+Action.c(24): web_url("light3") started  	[MsgId: MMSG-26355]
+Action.c(24): Registering web_url("light3") was successful  	[MsgId: MMSG-26390]
+Action.c(30): web_concurrent_end started  	[MsgId: MMSG-26355]
+Action.c(30): web_concurrent_end was successful, 20434 body bytes, 996 header bytes  	[MsgId: MMSG-26386]
+Action.c(32): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(32): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(35): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(35): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(43): web_image_check started  	[MsgId: MMSG-26355]
+Action.c(43): Verification checks not enabled. web_image_check is skipped. See the 'Run-time settings/Preferences/Checks'  	[MsgId: MMSG-27197]
+Action.c(43): web_image_check was successful  	[MsgId: MMSG-26392]
+Action.c(51): Notify: Transaction "Click login button" started.
+Action.c(51): Warning: Failed to get NV emulation handle.
+Action.c(53): web_url("index.php") started  	[MsgId: MMSG-26355]
+Action.c(53): Registered web_reg_find successful for "Text=You are not logged in" (count=2)  	[MsgId: MMSG-26364]
+Action.c(53): Registered web_reg_find successful for "Text=Returning to this web site?" (count=1)  	[MsgId: MMSG-26364]
+Action.c(53): web_url("index.php") was successful, 22929 body bytes, 492 header bytes, 21 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(64): Notify: Transaction "Click login button" ended with a "Pass" status (Duration: 1.8119 Wasted Time: 0.0169).
+Action.c(67): Rendezvous Ren_LoginAs
+Action.c(71): Notify: Transaction "Log in as teacher" started.
+Action.c(71): Warning: Failed to get NV emulation handle.
+Action.c(73): web_submit_data("index.php_2") started  	[MsgId: MMSG-26355]
+Action.c(73): Redirecting "http://localhost/moodle/login/index.php" (redirection depth is 0)  	[MsgId: MMSG-26694]
+Action.c(73): To location "http://localhost/moodle/login/index.php?testsession=3"  	[MsgId: MMSG-26693]
+Action.c(73): Redirecting "http://localhost/moodle/login/index.php?testsession=3" (redirection depth is 1)  	[MsgId: MMSG-26694]
+Action.c(73): To location "http://localhost/moodle/"  	[MsgId: MMSG-26693]
+Action.c(73): web_submit_data("index.php_2") was successful, 131099 body bytes, 1665 header bytes, 85 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(87): Notify: Transaction "Log in as teacher" ended with a "Pass" status (Duration: 14.8596 Wasted Time: 0.0400).
+Action.c(91): Notify: Transaction "Click on Course" started.
+Action.c(91): Warning: Failed to get NV emulation handle.
+Action.c(93): web_url("Test Course100") started  	[MsgId: MMSG-26355]
+Action.c(93): web_url("Test Course100") was successful, 93677 body bytes, 599 header bytes, 30 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(102): Notify: Transaction "Click on Course" ended with a "Pass" status (Duration: 2.8589 Wasted Time: 0.0216).
+Action.c(104): Notify: Transaction "Log out as teacher1" started.
+Action.c(104): Warning: Failed to get NV emulation handle.
+Action.c(106): web_url("Logout") started  	[MsgId: MMSG-26355]
+Action.c(106): web_url("Logout") was successful, 19245 body bytes, 492 header bytes, 20 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(115): Notify: Transaction "Log out as teacher1" ended with a "Pass" status (Duration: 2.0753 Wasted Time: 0.0157).
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Warning: Failed to get NV emulation handle.
+Ending action vuser_end.
+Vuser Terminated.

@@ -1,0 +1,15 @@
+[t115]
+FileName1=t115_light3.png
+URL1=http://localhost/moodle/theme/image.php/afterburner/theme/1409244180/images/light3
+Total=3
+ContentType=image/png
+SnapshotXmlFile=snapshot_115.xml
+RequestHeaderFile=t115_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t115_ResponseHeader.txt
+FileName2=t115_navigationitem.png
+URL2=http://localhost/moodle/theme/image.php/afterburner/core/1409244180/i/navigationitem
+FileName3=t115_moodle-logo.png
+URL3=http://localhost/moodle/theme/image.php/afterburner/theme/1409244180/footer/moodle-logo
+[ProtocolInfo]
+ProtocolId=QTWeb

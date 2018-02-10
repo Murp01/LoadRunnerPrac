@@ -1,0 +1,11 @@
+[t74]
+FileName1=t74_favicon.html
+URL1=http://localhost/moodle/theme/image.php/afterburner/theme/1409244180/favicon
+Total=1
+ContentType=image/vnd.microsoft.icon
+SnapshotXmlFile=snapshot_74.xml
+RequestHeaderFile=t74_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t74_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

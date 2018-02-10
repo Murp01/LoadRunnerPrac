@@ -1,0 +1,38 @@
+[
+    {
+        "stepId": "STEP10",
+        "stepName": "Url: iecompatviewlist.xml",
+        "infFile": "t3.inf",
+        "time": 1515971671687
+    },
+    {
+        "stepId": "STEP11",
+        "stepName": "Url: index.php",
+        "infFile": "t4.inf",
+        "time": 1515971674282
+    },
+    {
+        "stepId": "STEP12",
+        "stepName": "Submit Form: index.php_2",
+        "infFile": "t5.inf",
+        "time": 1515971680451
+    },
+    {
+        "stepId": "STEP13",
+        "stepName": "Link: Logout",
+        "infFile": "t6.inf",
+        "time": 1515971690548
+    },
+    {
+        "stepId": "STEP14",
+        "stepName": "Url: index.php",
+        "infFile": "t7.inf",
+        "time": 1515971692304
+    },
+    {
+        "stepId": "STEP15",
+        "stepName": "Submit Form: index.php_2",
+        "infFile": "t8.inf",
+        "time": 1515971698278
+    }
+]

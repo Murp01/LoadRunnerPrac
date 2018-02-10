@@ -1,0 +1,13 @@
+[t78]
+FileName1=t78.html
+URL1=http://localhost/moodle/
+Total=2
+RequestHeaderFile=t78_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t78_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_78.xml
+FileName2=t78_settings.png
+URL2=http://localhost/moodle/theme/image.php/afterburner/core/1409244180/i/settings
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+Date: Thu, 25 Jan 2018 21:46:37 GMT
+Server: Apache/2.4.7 (Win32) OpenSSL/0.9.8y PHP/5.4.22
+X-Powered-By: PHP/5.4.22
+Etag: 261b4de7725563b9b2054ae1580e2f6c9789bfc0
+Content-Disposition: inline; filename="styles.php"
+Last-Modified: Thu, 28 Dec 2017 14:40:56 GMT
+Expires: Mon, 26 Mar 2018 21:46:37 GMT
+Pragma: 
+Cache-Control: public, max-age=5184000
+Accept-Ranges: none
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/css; charset=utf-8
+

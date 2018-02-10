@@ -1,0 +1,15 @@
+[t87]
+FileName1=t87_light3.png
+URL1=http://localhost/moodle/theme/image.php/afterburner/theme/1409244180/images/light3
+Total=3
+ContentType=image/png
+SnapshotXmlFile=snapshot_87.xml
+RequestHeaderFile=t87_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t87_ResponseHeader.txt
+FileName2=t87_navigationitem.png
+URL2=http://localhost/moodle/theme/image.php/afterburner/core/1409244180/i/navigationitem
+FileName3=t87_footer.html
+URL3=http://localhost/moodle/theme/javascript.php/afterburner/1409244180/footer
+[ProtocolInfo]
+ProtocolId=QTWeb

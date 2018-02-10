@@ -1,0 +1,11 @@
+[t104]
+FileName1=t104_expanded.png
+URL1=http://localhost/moodle/theme/image.php/afterburner/core/1409244180/t/expanded
+Total=1
+ContentType=image/png
+SnapshotXmlFile=snapshot_104.xml
+RequestHeaderFile=t104_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t104_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

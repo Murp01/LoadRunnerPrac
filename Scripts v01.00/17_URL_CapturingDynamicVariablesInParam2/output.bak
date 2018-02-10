@@ -1,0 +1,544 @@
+Warning: Failed to post to 'http://127.0.0.1:8182/shunra/api/emulation/packetCaptureOnly', retcode=7.
+Warning: Failed to start NV emulation. Perhaps the NV server is not working, and therefore a NV report will not be generated.
+Virtual User Script started at: 10/02/2018 12:05:38
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 12.55.0 for Windows 10; build 911 (Jul 24 2017 19:46:00)  	[MsgId: MMSG-26983]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko  	[MsgId: MMSG-26988]
+Run-Time Settings file: "C:\Users\paul\Documents\VuGen\Scripts v01.00\17_URL_CapturingDynamicVariablesInParam2\\default.cfg"  	[MsgId: MMSG-27141]
+Warning: Failed to get NV emulation handle.
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
+Starting action Action.
+Warning: Failed to get NV emulation handle.
+Action.c(12): web_reg_save_param_regexp started  	[MsgId: MMSG-26355]
+Action.c(12): Registering web_reg_save_param_regexp was successful  	[MsgId: MMSG-26390]
+Action.c(20): web_url("moodle") started  	[MsgId: MMSG-26355]
+Action.c(20): web_url("moodle") was successful, 101335 body bytes, 669 header bytes, 85 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(31): Notify: Transaction "Click Login" started.
+Action.c(31): Warning: Failed to get NV emulation handle.
+Action.c(33): web_url("Login") started  	[MsgId: MMSG-26355]
+Action.c(33): web_url("Login") was successful, 22929 body bytes, 492 header bytes, 21 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(42): web_url("help") started  	[MsgId: MMSG-26355]
+Action.c(42): web_url("help") was successful, 766 body bytes, 494 header bytes  	[MsgId: MMSG-26386]
+Action.c(50): Notify: Transaction "Click Login" ended with a "Pass" status (Duration: 1.8969 Wasted Time: 0.0385).
+Action.c(54): Notify: Transaction "Click Create new account" started.
+Action.c(54): Warning: Failed to get NV emulation handle.
+Action.c(57): web_reg_save_param_ex started  	[MsgId: MMSG-26355]
+Action.c(57): Registering web_reg_save_param_ex was successful  	[MsgId: MMSG-26390]
+Action.c(65): web_url("signup.php") started  	[MsgId: MMSG-26355]
+Action.c(65): web_url("signup.php") was successful, 34519 body bytes, 492 header bytes, 28 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(76): 247
+Action.c(80): Afghanistan
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(85): Warning: Invalid parameter detected in function.
+Action.c(86): 
+Action.c(89): Notify: Transaction "Click Create new account" ended with a "Pass" status (Duration: 14.2217 Wasted Time: 0.0186).
+Action.c(93): Notify: Transaction "Submite new account details" started.
+Action.c(93): Warning: Failed to get NV emulation handle.
+Action.c(95): web_submit_data("signup.php_2") started  	[MsgId: MMSG-26355]
+Action.c(95): web_submit_data("signup.php_2") was successful, 34776 body bytes, 493 header bytes, 28 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(116): Notify: Transaction "Submite new account details" ended with a "Pass" status (Duration: 1.8842 Wasted Time: 0.0254).
+Action.c(120): Notify: Transaction "Click Continue" started.
+Action.c(120): Warning: Failed to get NV emulation handle.
+Action.c(122): web_submit_data("index.php") started  	[MsgId: MMSG-26355]
+Action.c(122): web_submit_data("index.php") was successful, 101335 body bytes, 599 header bytes, 85 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(133): Notify: Transaction "Click Continue" ended with a "Pass" status (Duration: 3.8535 Wasted Time: 0.0305).
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Warning: Failed to get NV emulation handle.
+Ending action vuser_end.
+Vuser Terminated.

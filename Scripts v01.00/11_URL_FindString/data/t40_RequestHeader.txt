@@ -1,0 +1,10 @@
+GET /moodle/course/view.php?id=101 HTTP/1.1
+Accept: text/html, application/xhtml+xml, image/jxr, */*
+Referer: http://localhost/moodle/
+Accept-Language: en-GB,en-US;q=0.7,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: localhost
+Connection: Keep-Alive
+Cookie: MoodleSession=kb1gs592ievh7p5oc7ott1gsi4
+

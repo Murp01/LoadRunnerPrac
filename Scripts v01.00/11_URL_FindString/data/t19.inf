@@ -1,0 +1,11 @@
+[t19]
+FileName1=t19_dock.html
+URL1=http://localhost/moodle/lib/javascript.php/1409244180/blocks/dock.js
+Total=1
+ContentType=application/javascript
+SnapshotXmlFile=snapshot_19.xml
+RequestHeaderFile=t19_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t19_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

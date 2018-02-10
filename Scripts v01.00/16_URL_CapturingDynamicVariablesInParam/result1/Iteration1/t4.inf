@@ -1,0 +1,14 @@
+[t4]
+SnapshotXmlFile=snapshot_3.xml
+ContentType=text/html
+StepName=Url: help
+Total=1
+FileName1=t4_0_image.png
+RequestHeaderFile=t4_RequestHeader.txt
+SaveSnapshotResources=1
+ResponseHeaderFile=t4_ResponseHeader.txt
+RawStepEndTime=1518254412666
+RawStepName=help
+RequestBodyFile=t4_RequestBody.txt
+RawStepStartTime=1518254412627
+URL1=http://localhost/moodle/theme/image.php/afterburner/core/1409244180/help

@@ -1,0 +1,11 @@
+[t95]
+FileName1=t95_help.png
+URL1=http://localhost/moodle/theme/image.php/afterburner/core/1409244180/help
+Total=1
+ContentType=image/png
+SnapshotXmlFile=snapshot_95.xml
+RequestHeaderFile=t95_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t95_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+Date: Sun, 14 Jan 2018 21:18:24 GMT
+Server: Apache/2.4.7 (Win32) OpenSSL/0.9.8y PHP/5.4.22
+X-Powered-By: PHP/5.4.22
+Content-Disposition: inline; filename="combo"
+Last-Modified: Fri, 20 Dec 2013 18:01:54 GMT
+Expires: Wed, 09 Jan 2019 21:18:24 GMT
+Pragma: 
+Cache-Control: public, max-age=31104000
+Accept-Ranges: none
+Etag: 23846fec44c8ef512eb2e470acecf59d7e8f77f1
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Content-Length: 1244
+Keep-Alive: timeout=5, max=97
+Connection: Keep-Alive
+Content-Type: application/javascript
+

@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\paul\Documents\VuGen\Scripts v01.00\16_URL_CapturingDynamicVariablesInParam
+-IC:\Program Files (x86)\HPE\LoadRunner\include
+-ec:\users\paul\documents\vugen\scripts v01.00\16_url_capturingdynamicvariablesinparam\\logfile.log
+c:\users\paul\documents\vugen\scripts v01.00\16_url_capturingdynamicvariablesinparam\\combined_16_URL_CapturingDynamicVariablesInParam.c
+c:\users\paul\documents\vugen\scripts v01.00\16_url_capturingdynamicvariablesinparam\\pre_cci.c

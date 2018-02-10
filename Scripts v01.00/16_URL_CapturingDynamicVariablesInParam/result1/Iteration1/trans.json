@@ -1,0 +1,22 @@
+[
+    {
+        "transactionName": "Click Login",
+        "rawStartTime": 1518254410874,
+        "rawEndTime": 1518254412688
+    },
+    {
+        "transactionName": "Click Create new account",
+        "rawStartTime": 1518254412720,
+        "rawEndTime": 1518254414611
+    },
+    {
+        "transactionName": "Submite new account details",
+        "rawStartTime": 1518254414643,
+        "rawEndTime": 1518254416546
+    },
+    {
+        "transactionName": "Click Continue",
+        "rawStartTime": 1518254416578,
+        "rawEndTime": 1518254420461
+    }
+]

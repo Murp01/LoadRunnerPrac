@@ -1,0 +1,11 @@
+[t12]
+FileName1=t12_light3.png
+URL1=http://localhost/moodle/theme/image.php/afterburner/theme/1409244180/images/light3
+Total=1
+ContentType=image/png
+SnapshotXmlFile=snapshot_12.xml
+RequestHeaderFile=t12_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t12_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

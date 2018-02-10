@@ -1,0 +1,11 @@
+[t110]
+FileName1=t110_icon.gif
+URL1=http://localhost/moodle/theme/image.php/afterburner/assign/1409244180/icon
+Total=1
+ContentType=image/gif
+SnapshotXmlFile=snapshot_110.xml
+RequestHeaderFile=t110_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t110_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

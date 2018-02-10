@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Date: Thu, 25 Jan 2018 21:46:47 GMT
+Server: Apache/2.4.7 (Win32) OpenSSL/0.9.8y PHP/5.4.22
+X-Powered-By: PHP/5.4.22
+Etag: dd08ce1d5476c790c73313399ef119e1692f7440
+Content-Disposition: inline; filename="navigationitem.png"
+Last-Modified: Thu, 28 Dec 2017 14:40:59 GMT
+Expires: Mon, 26 Mar 2018 21:46:47 GMT
+Pragma: 
+Cache-Control: public, max-age=5184000
+Accept-Ranges: none
+Content-Length: 210
+Keep-Alive: timeout=5, max=99
+Connection: Keep-Alive
+Content-Type: image/png
+

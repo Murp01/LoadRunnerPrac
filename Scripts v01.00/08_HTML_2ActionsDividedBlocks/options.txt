@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\paul\Documents\VuGen\Scripts v01.00\07_HTML_2ActionsDividedIterations
+-IC:\Program Files (x86)\HPE\LoadRunner\include
+-ec:\users\paul\documents\vugen\scripts v01.00\07_html_2actionsdividediterations\\logfile.log
+c:\users\paul\documents\vugen\scripts v01.00\07_html_2actionsdividediterations\\combined_07_HTML_2ActionsDividedIterations.c
+c:\users\paul\documents\vugen\scripts v01.00\07_html_2actionsdividediterations\\pre_cci.c

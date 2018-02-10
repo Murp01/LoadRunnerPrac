@@ -1,0 +1,9 @@
+Start auto log messages stack - Iteration 2.	[MsgId: MMSG-10545]
+A2_LoginSelectCourse.c(31): Resource "http://localhost/moodle/theme/javascript.php/afterburner/1409244180/footer" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+A2_LoginSelectCourse.c(31): Found resource "http://localhost/moodle/lib/javascript.php/1409244180/course/format/topics/format.js" in HTML "http://localhost/moodle/course/view.php?id=101"  	[MsgId: MMSG-26659]
+A2_LoginSelectCourse.c(31): web_link("Test Course100") was successful, 117950 body bytes, 10664 header bytes, 43 chunking overhead bytes  	[MsgId: MMSG-26385]
+A2_LoginSelectCourse.c(40): Notify: Transaction "Click_on_course" ended with a "Pass" status (Duration: 3.0407).	[MsgId: MMSG-16873]
+A2_LoginSelectCourse.c(42): Error: Cannot start transaction "Log_out_of_Profile". This Vuser already started a transaction with the same name, and has not yet processed the corresponding lr_end_transaction statement.	[MsgId: MERR-16993]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+

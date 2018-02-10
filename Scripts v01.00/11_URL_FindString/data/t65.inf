@@ -1,0 +1,11 @@
+[t65]
+FileName1=t65_yui_combo.html
+URL1=http://localhost/moodle/theme/yui_combo.php?2.9.0/build/yahoo/yahoo-min.js&2.9.0/build/dom/dom-min.js
+Total=1
+ContentType=application/javascript
+SnapshotXmlFile=snapshot_65.xml
+RequestHeaderFile=t65_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t65_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,15 @@
+[t29]
+FileName1=t29_head.html
+URL1=http://localhost/moodle/theme/javascript.php/afterburner/1409244180/head
+Total=3
+ContentType=application/javascript
+SnapshotXmlFile=snapshot_29.xml
+RequestHeaderFile=t29_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t29_ResponseHeader.txt
+FileName2=t29_all.css
+URL2=http://localhost/moodle/theme/styles.php/afterburner/1409244180/all
+FileName3=t29_yui_combo.css
+URL3=http://localhost/moodle/theme/yui_combo.php?2.9.0/build/assets/skins/sam/skin.css
+[ProtocolInfo]
+ProtocolId=QTWeb

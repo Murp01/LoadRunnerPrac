@@ -1,0 +1,37 @@
+Warning: Failed to post to 'http://127.0.0.1:8182/shunra/api/emulation/packetCaptureOnly', retcode=7.
+Warning: Failed to start NV emulation. Perhaps the NV server is not working, and therefore a NV report will not be generated.
+Virtual User Script started at: 02/02/2018 09:07:48
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 12.55.0 for Windows 10; build 911 (Jul 24 2017 19:46:00)  	[MsgId: MMSG-26983]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko  	[MsgId: MMSG-26988]
+Run-Time Settings file: "C:\Users\paul\Documents\VuGen\Scripts v01.00\13_URL_RendevousPoint\\default.cfg"  	[MsgId: MMSG-27141]
+Warning: Failed to get NV emulation handle.
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
+Starting action Action.
+Warning: Failed to get NV emulation handle.
+Action.c(3): web_url("moodle") started  	[MsgId: MMSG-26355]
+Action.c(3): web_url("moodle") was successful, 101329 body bytes, 669 header bytes, 85 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(12): web_concurrent_start started  	[MsgId: MMSG-26355]
+Action.c(12): web_concurrent_start was successful  	[MsgId: MMSG-26392]
+Action.c(14): web_url("logo") started  	[MsgId: MMSG-26355]
+Action.c(14): Registering web_url("logo") was successful  	[MsgId: MMSG-26390]
+Action.c(24): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(24): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(27): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(27): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(35): web_image_check started  	[MsgId: MMSG-26355]
+Action.c(35): Error -26359: Function not allowed within a concurrent group  	[MsgId: MERR-26359]
+Action.c(35): web_image_check highest severity level was "ERROR"  	[MsgId: MMSG-26391]
+Ending action Action.
+Action.c(35): Warning -27266: Pending Web requests detected at the end of iteration and will be aborted  	[MsgId: MWAR-27266]
+Action.c(35): Aborting pending download of URL="http://localhost/moodle/theme/image.php/afterburner/theme/1409244180/images/logo" (RelFrameId=1, Internal ID=2)  	[MsgId: MMSG-27652]
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Warning: Failed to get NV emulation handle.
+Ending action vuser_end.
+Vuser Terminated.

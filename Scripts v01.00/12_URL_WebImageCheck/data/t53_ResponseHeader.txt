@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Date: Thu, 25 Jan 2018 21:51:54 GMT
+Server: Apache/2.4.7 (Win32) OpenSSL/0.9.8y PHP/5.4.22
+X-Powered-By: PHP/5.4.22
+Etag: 2927ee1d917b46fd9e10ce6f604c771bf1d6f044
+Content-Disposition: inline; filename="roles.png"
+Last-Modified: Fri, 29 Dec 2017 00:37:09 GMT
+Expires: Mon, 26 Mar 2018 21:51:54 GMT
+Pragma: 
+Cache-Control: public, max-age=5184000
+Accept-Ranges: none
+Content-Length: 825
+Keep-Alive: timeout=5, max=97
+Connection: Keep-Alive
+Content-Type: image/png
+

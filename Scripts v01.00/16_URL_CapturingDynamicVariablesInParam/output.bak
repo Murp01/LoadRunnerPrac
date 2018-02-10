@@ -1,0 +1,51 @@
+Warning: Failed to post to 'http://127.0.0.1:8182/shunra/api/emulation/packetCaptureOnly', retcode=7.
+Warning: Failed to start NV emulation. Perhaps the NV server is not working, and therefore a NV report will not be generated.
+Virtual User Script started at: 10/02/2018 09:14:43
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 12.55.0 for Windows 10; build 911 (Jul 24 2017 19:46:00)  	[MsgId: MMSG-26983]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko  	[MsgId: MMSG-26988]
+Run-Time Settings file: "C:\Users\paul\Documents\VuGen\Scripts v01.00\16_URL_CapturingDynamicVariablesInParam\\default.cfg"  	[MsgId: MMSG-27141]
+Warning: Failed to get NV emulation handle.
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
+Starting action Action.
+Warning: Failed to get NV emulation handle.
+Action.c(5): web_reg_save_param_regexp started  	[MsgId: MMSG-26355]
+Action.c(5): Registering web_reg_save_param_regexp was successful  	[MsgId: MMSG-26390]
+Action.c(13): web_url("moodle") started  	[MsgId: MMSG-26355]
+Action.c(13): web_url("moodle") was successful, 101335 body bytes, 669 header bytes, 85 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(26): Notify: Transaction "Click Login" started.
+Action.c(26): Warning: Failed to get NV emulation handle.
+Action.c(28): web_url("Login") started  	[MsgId: MMSG-26355]
+Action.c(28): web_url("Login") was successful, 22929 body bytes, 492 header bytes, 21 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(37): web_url("help") started  	[MsgId: MMSG-26355]
+Action.c(37): web_url("help") was successful, 766 body bytes, 494 header bytes  	[MsgId: MMSG-26386]
+Action.c(46): Notify: Transaction "Click Login" ended with a "Pass" status (Duration: 1.9526 Wasted Time: 0.0362).
+Action.c(50): Notify: Transaction "Click Create new account" started.
+Action.c(50): Warning: Failed to get NV emulation handle.
+Action.c(53): web_reg_save_param_ex started  	[MsgId: MMSG-26355]
+Action.c(53): Registering web_reg_save_param_ex was successful  	[MsgId: MMSG-26390]
+Action.c(61): web_url("signup.php") started  	[MsgId: MMSG-26355]
+Action.c(61): web_url("signup.php") was successful, 34519 body bytes, 492 header bytes, 28 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(72): Åland Islands
+Action.c(74): Notify: Transaction "Click Create new account" ended with a "Pass" status (Duration: 1.8598 Wasted Time: 0.0221).
+Action.c(78): Notify: Transaction "Submite new account details" started.
+Action.c(78): Warning: Failed to get NV emulation handle.
+Action.c(81): web_submit_data("signup.php_2") started  	[MsgId: MMSG-26355]
+Action.c(81): web_submit_data("signup.php_2") was successful, 34776 body bytes, 492 header bytes, 28 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(102): Notify: Transaction "Submite new account details" ended with a "Pass" status (Duration: 1.8896 Wasted Time: 0.0188).
+Action.c(106): Notify: Transaction "Click Continue" started.
+Action.c(106): Warning: Failed to get NV emulation handle.
+Action.c(108): web_submit_data("index.php") started  	[MsgId: MMSG-26355]
+Action.c(108): web_submit_data("index.php") was successful, 101335 body bytes, 599 header bytes, 85 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(119): Notify: Transaction "Click Continue" ended with a "Pass" status (Duration: 3.8285 Wasted Time: 0.0307).
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Warning: Failed to get NV emulation handle.
+Ending action vuser_end.
+Vuser Terminated.

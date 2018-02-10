@@ -1,0 +1,74 @@
+[
+    {
+        "stepId": "STEP1",
+        "stepName": "Url: moodle",
+        "infFile": "t1.inf",
+        "time": 1517173678112
+    },
+    {
+        "stepId": "STEP2",
+        "stepName": "Url: bground",
+        "infFile": "t4.inf",
+        "time": 1517173678343
+    },
+    {
+        "stepId": "STEP3",
+        "stepName": "Url: l1.dat",
+        "infFile": "t21.inf",
+        "time": 1517173680933
+    },
+    {
+        "stepId": "STEP4",
+        "stepName": "Url: iecompatviewlist.xml",
+        "infFile": "t22.inf",
+        "time": 1517173681350
+    },
+    {
+        "stepId": "STEP5",
+        "stepName": "Url: index.php",
+        "infFile": "t23.inf",
+        "time": 1517173683282
+    },
+    {
+        "stepId": "STEP6",
+        "stepName": "Url: help",
+        "infFile": "t24.inf",
+        "time": 1517173683348
+    },
+    {
+        "stepId": "STEP7",
+        "stepName": "Submit Data: index.php_2",
+        "infFile": "t25.inf",
+        "time": 1517173696519
+    },
+    {
+        "stepId": "STEP8",
+        "stepName": "Url: settings",
+        "infFile": "t26.inf",
+        "time": 1517173696600
+    },
+    {
+        "stepId": "STEP9",
+        "stepName": "Url: Test Course100",
+        "infFile": "t27.inf",
+        "time": 1517173699634
+    },
+    {
+        "stepId": "STEP10",
+        "stepName": "Url: expanded",
+        "infFile": "t46.inf",
+        "time": 1517173700490
+    },
+    {
+        "stepId": "STEP11",
+        "stepName": "Url: yui_combo.php_12",
+        "infFile": "t47.inf",
+        "time": 1517173700656
+    },
+    {
+        "stepId": "STEP12",
+        "stepName": "Url: Logout",
+        "infFile": "t48.inf",
+        "time": 1517173702837
+    }
+]

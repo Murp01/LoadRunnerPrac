@@ -1,0 +1,298 @@
+Warning: Failed to post to 'http://127.0.0.1:8182/shunra/api/emulation/packetCaptureOnly', retcode=7.
+Warning: Failed to start NV emulation. Perhaps the NV server is not working, and therefore a NV report will not be generated.
+Virtual User Script started at: 10/02/2018 12:07:09
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 12.55.0 for Windows 10; build 911 (Jul 24 2017 19:46:00)  	[MsgId: MMSG-26983]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko  	[MsgId: MMSG-26988]
+Run-Time Settings file: "C:\Users\paul\Documents\VuGen\Scripts v01.00\17_URL_CapturingDynamicVariablesInParam2\\default.cfg"  	[MsgId: MMSG-27141]
+Warning: Failed to get NV emulation handle.
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
+Starting action Action.
+Warning: Failed to get NV emulation handle.
+Action.c(12): web_reg_save_param_regexp started  	[MsgId: MMSG-26355]
+Action.c(12): Registering web_reg_save_param_regexp was successful  	[MsgId: MMSG-26390]
+Action.c(20): web_url("moodle") started  	[MsgId: MMSG-26355]
+Action.c(20): web_url("moodle") was successful, 101335 body bytes, 669 header bytes, 85 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(31): Notify: Transaction "Click Login" started.
+Action.c(31): Warning: Failed to get NV emulation handle.
+Action.c(33): web_url("Login") started  	[MsgId: MMSG-26355]
+Action.c(33): web_url("Login") was successful, 22929 body bytes, 492 header bytes, 21 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(42): web_url("help") started  	[MsgId: MMSG-26355]
+Action.c(42): web_url("help") was successful, 766 body bytes, 494 header bytes  	[MsgId: MMSG-26386]
+Action.c(50): Notify: Transaction "Click Login" ended with a "Pass" status (Duration: 1.8730 Wasted Time: 0.0379).
+Action.c(54): Notify: Transaction "Click Create new account" started.
+Action.c(54): Warning: Failed to get NV emulation handle.
+Action.c(57): web_reg_save_param_ex started  	[MsgId: MMSG-26355]
+Action.c(57): Registering web_reg_save_param_ex was successful  	[MsgId: MMSG-26390]
+Action.c(65): web_url("signup.php") started  	[MsgId: MMSG-26355]
+Action.c(65): web_url("signup.php") was successful, 34519 body bytes, 492 header bytes, 28 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(76): 247
+Action.c(80): Afghanistan
+Action.c(86): Åland Islands
+Action.c(86): Afghanistan
+Action.c(86): Albania
+Action.c(86): Algeria
+Action.c(86): American Samoa
+Action.c(86): Andorra
+Action.c(86): Angola
+Action.c(86): Anguilla
+Action.c(86): Antarctica
+Action.c(86): Antigua And Barbuda
+Action.c(86): Argentina
+Action.c(86): Armenia
+Action.c(86): Aruba
+Action.c(86): Australia
+Action.c(86): Austria
+Action.c(86): Azerbaijan
+Action.c(86): Bahamas
+Action.c(86): Bahrain
+Action.c(86): Bangladesh
+Action.c(86): Barbados
+Action.c(86): Belarus
+Action.c(86): Belgium
+Action.c(86): Belize
+Action.c(86): Benin
+Action.c(86): Bermuda
+Action.c(86): Bhutan
+Action.c(86): Bolivia
+Action.c(86): Bosnia And Herzegovina
+Action.c(86): Botswana
+Action.c(86): Bouvet Island
+Action.c(86): Brazil
+Action.c(86): British Indian Ocean Territory
+Action.c(86): Brunei Darussalam
+Action.c(86): Bulgaria
+Action.c(86): Burkina Faso
+Action.c(86): Burundi
+Action.c(86): Côte D'Ivoire
+Action.c(86): Cambodia
+Action.c(86): Cameroon
+Action.c(86): Canada
+Action.c(86): Cape Verde
+Action.c(86): Cayman Islands
+Action.c(86): Central African Republic
+Action.c(86): Chad
+Action.c(86): Chile
+Action.c(86): China
+Action.c(86): Christmas Island
+Action.c(86): Cocos (Keeling) Islands
+Action.c(86): Colombia
+Action.c(86): Comoros
+Action.c(86): Congo
+Action.c(86): Congo, The Democratic Republic Of The
+Action.c(86): Cook Islands
+Action.c(86): Costa Rica
+Action.c(86): Croatia
+Action.c(86): Cuba
+Action.c(86): Cyprus
+Action.c(86): Czech Republic
+Action.c(86): Denmark
+Action.c(86): Djibouti
+Action.c(86): Dominica
+Action.c(86): Dominican Republic
+Action.c(86): Ecuador
+Action.c(86): Egypt
+Action.c(86): El Salvador
+Action.c(86): Equatorial Guinea
+Action.c(86): Eritrea
+Action.c(86): Estonia
+Action.c(86): Ethiopia
+Action.c(86): Falkland Islands (Malvinas)
+Action.c(86): Faroe Islands
+Action.c(86): Fiji
+Action.c(86): Finland
+Action.c(86): France
+Action.c(86): French Guiana
+Action.c(86): French Polynesia
+Action.c(86): French Southern Territories
+Action.c(86): Gabon
+Action.c(86): Gambia
+Action.c(86): Georgia
+Action.c(86): Germany
+Action.c(86): Ghana
+Action.c(86): Gibraltar
+Action.c(86): Greece
+Action.c(86): Greenland
+Action.c(86): Grenada
+Action.c(86): Guadeloupe
+Action.c(86): Guam
+Action.c(86): Guatemala
+Action.c(86): Guernsey
+Action.c(86): Guinea
+Action.c(86): Guinea-Bissau
+Action.c(86): Guyana
+Action.c(86): Haiti
+Action.c(86): Heard Island And Mcdonald Islands
+Action.c(86): Holy See (Vatican City State)
+Action.c(86): Honduras
+Action.c(86): Hong Kong
+Action.c(86): Hungary
+Action.c(86): Iceland
+Action.c(86): India
+Action.c(86): Indonesia
+Action.c(86): Iran, Islamic Republic Of
+Action.c(86): Iraq
+Action.c(86): Ireland
+Action.c(86): Isle Of Man
+Action.c(86): Israel
+Action.c(86): Italy
+Action.c(86): Jamaica
+Action.c(86): Japan
+Action.c(86): Jersey
+Action.c(86): Jordan
+Action.c(86): Kazakhstan
+Action.c(86): Kenya
+Action.c(86): Kiribati
+Action.c(86): Korea, Democratic People's Republic Of
+Action.c(86): Korea, Republic Of
+Action.c(86): Kuwait
+Action.c(86): Kyrgyzstan
+Action.c(86): Lao People's Democratic Republic
+Action.c(86): Latvia
+Action.c(86): Lebanon
+Action.c(86): Lesotho
+Action.c(86): Liberia
+Action.c(86): Libyan Arab Jamahiriya
+Action.c(86): Liechtenstein
+Action.c(86): Lithuania
+Action.c(86): Luxembourg
+Action.c(86): Macao
+Action.c(86): Macedonia, The Former Yugoslav Republic Of
+Action.c(86): Madagascar
+Action.c(86): Malawi
+Action.c(86): Malaysia
+Action.c(86): Maldives
+Action.c(86): Mali
+Action.c(86): Malta
+Action.c(86): Marshall Islands
+Action.c(86): Martinique
+Action.c(86): Mauritania
+Action.c(86): Mauritius
+Action.c(86): Mayotte
+Action.c(86): Mexico
+Action.c(86): Micronesia, Federated States Of
+Action.c(86): Moldova, Republic Of
+Action.c(86): Monaco
+Action.c(86): Mongolia
+Action.c(86): Montenegro
+Action.c(86): Montserrat
+Action.c(86): Morocco
+Action.c(86): Mozambique
+Action.c(86): Myanmar
+Action.c(86): Namibia
+Action.c(86): Nauru
+Action.c(86): Nepal
+Action.c(86): Netherlands
+Action.c(86): Netherlands Antilles
+Action.c(86): New Caledonia
+Action.c(86): New Zealand
+Action.c(86): Nicaragua
+Action.c(86): Niger
+Action.c(86): Nigeria
+Action.c(86): Niue
+Action.c(86): Norfolk Island
+Action.c(86): Northern Mariana Islands
+Action.c(86): Norway
+Action.c(86): Oman
+Action.c(86): Pakistan
+Action.c(86): Palau
+Action.c(86): Palestinian Territory, Occupied
+Action.c(86): Panama
+Action.c(86): Papua New Guinea
+Action.c(86): Paraguay
+Action.c(86): Peru
+Action.c(86): Philippines
+Action.c(86): Pitcairn
+Action.c(86): Poland
+Action.c(86): Portugal
+Action.c(86): Puerto Rico
+Action.c(86): Qatar
+Action.c(86): Réunion
+Action.c(86): Romania
+Action.c(86): Russian Federation
+Action.c(86): Rwanda
+Action.c(86): Saint Barthélemy
+Action.c(86): Saint Helena
+Action.c(86): Saint Kitts And Nevis
+Action.c(86): Saint Lucia
+Action.c(86): Saint Martin
+Action.c(86): Saint Pierre And Miquelon
+Action.c(86): Saint Vincent And The Grenadines
+Action.c(86): Samoa
+Action.c(86): San Marino
+Action.c(86): Sao Tome And Principe
+Action.c(86): Saudi Arabia
+Action.c(86): Senegal
+Action.c(86): Serbia
+Action.c(86): Seychelles
+Action.c(86): Sierra Leone
+Action.c(86): Singapore
+Action.c(86): Slovakia
+Action.c(86): Slovenia
+Action.c(86): Solomon Islands
+Action.c(86): Somalia
+Action.c(86): South Africa
+Action.c(86): South Georgia And The South Sandwich Islands
+Action.c(86): Spain
+Action.c(86): Sri Lanka
+Action.c(86): Sudan
+Action.c(86): Suriname
+Action.c(86): Svalbard And Jan Mayen
+Action.c(86): Swaziland
+Action.c(86): Sweden
+Action.c(86): Switzerland
+Action.c(86): Syrian Arab Republic
+Action.c(86): Taiwan
+Action.c(86): Tajikistan
+Action.c(86): Tanzania, United Republic Of
+Action.c(86): Thailand
+Action.c(86): Timor-Leste
+Action.c(86): Togo
+Action.c(86): Tokelau
+Action.c(86): Tonga
+Action.c(86): Trinidad And Tobago
+Action.c(86): Tunisia
+Action.c(86): Turkey
+Action.c(86): Turkmenistan
+Action.c(86): Turks And Caicos Islands
+Action.c(86): Tuvalu
+Action.c(86): Uganda
+Action.c(86): Ukraine
+Action.c(86): United Arab Emirates
+Action.c(86): United Kingdom
+Action.c(86): United States
+Action.c(86): United States Minor Outlying Islands
+Action.c(86): Uruguay
+Action.c(86): Uzbekistan
+Action.c(86): Vanuatu
+Action.c(86): Venezuela
+Action.c(86): Viet Nam
+Action.c(86): Virgin Islands, British
+Action.c(86): Virgin Islands, U.S.
+Action.c(86): Wallis And Futuna
+Action.c(86): Western Sahara
+Action.c(86): Yemen
+Action.c(86): Zambia
+Action.c(86): Zimbabwe
+Action.c(89): Notify: Transaction "Click Create new account" ended with a "Pass" status (Duration: 14.1154 Wasted Time: 0.0178).
+Action.c(93): Notify: Transaction "Submite new account details" started.
+Action.c(93): Warning: Failed to get NV emulation handle.
+Action.c(95): web_submit_data("signup.php_2") started  	[MsgId: MMSG-26355]
+Action.c(95): web_submit_data("signup.php_2") was successful, 34776 body bytes, 493 header bytes, 28 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(116): Notify: Transaction "Submite new account details" ended with a "Pass" status (Duration: 1.8859 Wasted Time: 0.0188).
+Action.c(120): Notify: Transaction "Click Continue" started.
+Action.c(120): Warning: Failed to get NV emulation handle.
+Action.c(122): web_submit_data("index.php") started  	[MsgId: MMSG-26355]
+Action.c(122): web_submit_data("index.php") was successful, 101335 body bytes, 599 header bytes, 85 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(133): Notify: Transaction "Click Continue" ended with a "Pass" status (Duration: 3.8137 Wasted Time: 0.0322).
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Warning: Failed to get NV emulation handle.
+Ending action vuser_end.
+Vuser Terminated.

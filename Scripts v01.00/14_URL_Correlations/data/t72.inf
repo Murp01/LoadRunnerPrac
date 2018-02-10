@@ -1,0 +1,11 @@
+[t72]
+FileName1=t72_logo.jpg
+URL1=http://localhost/moodle/theme/image.php/afterburner/theme/1409244180/images/logo
+Total=1
+ContentType=image/jpeg
+SnapshotXmlFile=snapshot_72.xml
+RequestHeaderFile=t72_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t72_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

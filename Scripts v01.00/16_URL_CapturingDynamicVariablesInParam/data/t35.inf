@@ -1,0 +1,11 @@
+[t35]
+FileName1=t35_suggestions.html
+URL1=https://ieonline.microsoft.com/iedomainsuggestions/ie11/suggestions.en-GB
+Total=1
+ContentType=application/octet-stream
+SnapshotXmlFile=snapshot_35.xml
+RequestHeaderFile=t35_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t35_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,11 @@
+[t71]
+FileName1=t71_withoutkey.png
+URL1=http://localhost/moodle/theme/image.php/afterburner/enrol_self/1409244180/withoutkey
+Total=1
+ContentType=image/png
+SnapshotXmlFile=snapshot_71.xml
+RequestHeaderFile=t71_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t71_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

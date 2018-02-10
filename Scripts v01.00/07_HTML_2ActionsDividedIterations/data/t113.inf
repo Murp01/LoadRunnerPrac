@@ -1,0 +1,13 @@
+[t113]
+FileName1=t113_bground.jpg
+URL1=http://localhost/moodle/theme/image.php/afterburner/theme/1409244180/core/bground
+Total=2
+ContentType=image/jpeg
+SnapshotXmlFile=snapshot_113.xml
+RequestHeaderFile=t113_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t113_ResponseHeader.txt
+FileName2=t113_withoutkey.png
+URL2=http://localhost/moodle/theme/image.php/afterburner/enrol_self/1409244180/withoutkey
+[ProtocolInfo]
+ProtocolId=QTWeb

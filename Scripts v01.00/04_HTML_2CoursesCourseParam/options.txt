@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\paul\Documents\VuGen\Scripts v01.00\04_HTML_2CoursesCourseParam
+-IC:\Program Files (x86)\HPE\LoadRunner\include
+-ec:\users\paul\documents\vugen\scripts v01.00\04_html_2coursescourseparam\\logfile.log
+c:\users\paul\documents\vugen\scripts v01.00\04_html_2coursescourseparam\\combined_04_HTML_2CoursesCourseParam.c
+c:\users\paul\documents\vugen\scripts v01.00\04_html_2coursescourseparam\\pre_cci.c

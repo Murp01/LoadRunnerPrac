@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\paul\Documents\VuGen\Scripts v01.00\01_HTML_LoginSelectBook
+-IC:\Program Files (x86)\HPE\LoadRunner\include
+-ec:\users\paul\documents\vugen\scripts v01.00\01_html_loginselectbook\\logfile.log
+c:\users\paul\documents\vugen\scripts v01.00\01_html_loginselectbook\\combined_01_HTML_LoginSelectBook.c
+c:\users\paul\documents\vugen\scripts v01.00\01_html_loginselectbook\\pre_cci.c

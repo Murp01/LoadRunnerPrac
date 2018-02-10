@@ -1,0 +1,229 @@
+[API Trapper      ( bac: 8b4)] Recording in 64-bit mode: C:\Program Files\Internet Explorer\IEXPLORE.EXE
+[API Trapper      (1f04:27e0)] Recording in 32-bit mode: C:\Program Files (x86)\Internet Explorer\IEXPLORE.EXE
+[Network Analyzer (1f04:227c)] ------------------------------------------------------------------------------------------
+[Network Analyzer (1f04:227c)] Load Network Traffic Analyzers:
+[Network Analyzer (1f04:227c)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (1f04:227c)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter.dll)
+[Network Analyzer (1f04:227c)]     + Network Analyzer: api_http_filter.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (1f04:227c)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter.dll
+[Network Analyzer (1f04:227c)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer.dll)
+[Network Analyzer (1f04:227c)]     + Network Analyzer: WebSocketAnalyzer.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (1f04:227c)]     Analyzer Module: local_server (value=)
+[Network Analyzer (1f04:227c)] ------------------------------------------------------------------------------------------
+[Network Analyzer (1f04:1d30)] Address lookup for Lenovo-PC = 169.254.120.80
+[Net An. Debug    (1f04:1d30)] IP address belongs to the VirtualBox, taking the another interface with ip=192.168.0.4
+[Network Analyzer (1f04:227c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 80  (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer (1f04:227c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 80  (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (1f04:227c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 80  (Service=)  (Sid=  3)  PROXIED!
+[Web Request      (1f04:1d58)] "GET /moodle/"   
+[Network Analyzer (1f04:1d58)]   (Sid:  1) Client -> Server @ : 284 bytes (Service=HTTP)
+[Network Analyzer (1f04:227c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 80  (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer (1f04:227c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 80  (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer (1f04:1d58)]   (Sid:  1) Server -> Client : 8640 bytes  (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  1) Server -> Client : 8873 bytes  (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  1) Server -> Client : 7200 bytes  (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  1) Server -> Client : 1222 bytes  (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  1) Server -> Client : 8227 bytes  (Service=HTTP)
+[Web Request      (1f04:1d58)] "GET /moodle/theme/yui_combo.php?3.5.1/build/cssreset/reset-min.css&3.5.1/build/cssfonts/fonts-min.css&3.5.1/build/cssgrids/grids-min.css&3.5.1/build/cssbase/base-min.css"   
+[Network Analyzer (1f04:1d58)]   (Sid:  2) Client -> Server @ : 491 bytes (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  2) Server -> Client : 1710 bytes  (Service=HTTP)
+[Web Request      (1f04:1d58)] "GET /moodle/theme/yui_combo.php?2.9.0/build/yahoo/yahoo-min.js&2.9.0/build/dom/dom-min.js"   
+[Network Analyzer (1f04:1d58)]   (Sid:  4) Client -> Server @ : 431 bytes (Service=HTTP)
+[Web Request      (1f04:1d58)] "GET /moodle/theme/yui_combo.php?3.5.1/build/yui/yui-min.js"   
+[Network Analyzer (1f04:1d58)]   (Sid:  3) Client -> Server @ : 400 bytes (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  4) Server -> Client : 9004 bytes  (Service=HTTP)
+[Web Request      (1f04:1d58)] "GET /moodle/theme/yui_combo.php?2.9.0/build/assets/skins/sam/skin.css"   
+[Network Analyzer (1f04:1d58)]   (Sid:  2) Client -> Server @ : 391 bytes (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  3) Server -> Client : 8463 bytes  (Service=HTTP)
+[Web Request      (1f04:1d58)] "GET /moodle/theme/styles.php/afterburner/1409244180/all"   
+[Network Analyzer (1f04:1d58)]   (Sid:  3) Client -> Server @ : 377 bytes (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  3) Server -> Client : 10080 bytes  (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  1) Server -> Client : 8442 bytes  (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  3) Server -> Client : 1213 bytes  (Service=HTTP)
+[Web Request      (1f04:1d58)] "GET /moodle/lib/javascript.php/1409244180/lib/javascript-static.js"   
+[Network Analyzer (1f04:1d58)]   (Sid:  3) Client -> Server @ : 408 bytes (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  3) Server -> Client : 10898 bytes  (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  3) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (1f04:1d58)] "GET /moodle/theme/javascript.php/afterburner/1409244180/head"   
+[Network Analyzer (1f04:1d58)]   (Sid:  3) Client -> Server @ : 402 bytes (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  3) Server -> Client : 594 bytes  (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  2) Server -> Client : 882 bytes  (Service=HTTP)
+[Web Request      (1f04:1d58)] "GET /moodle/theme/image.php/afterburner/enrol_self/1409244180/withoutkey"   
+[Network Analyzer (1f04:1d58)]   (Sid:  3) Client -> Server @ : 442 bytes (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  3) Server -> Client : 1175 bytes  (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  1) Server -> Client : 7200 bytes  (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  1) Server -> Client : 1194 bytes  (Service=HTTP)
+[Web Request      (1f04:1d58)] "GET /moodle/theme/image.php/afterburner/theme/1409244180/core/bground"   
+[Network Analyzer (1f04:1d58)]   (Sid:  3) Client -> Server @ : 439 bytes (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  3) Server -> Client : 819 bytes  (Service=HTTP)
+[Web Request      (1f04:1d58)] "GET /moodle/theme/image.php/afterburner/theme/1409244180/images/logo"   
+[Network Analyzer (1f04:1d58)]   (Sid:  3) Client -> Server @ : 438 bytes (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  3) Server -> Client : 10616 bytes  (Service=HTTP)
+[Web Request      (1f04:1d58)] "GET /moodle/theme/image.php/afterburner/theme/1409244180/images/light3"   
+[Network Analyzer (1f04:1d58)]   (Sid:  3) Client -> Server @ : 440 bytes (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  3) Server -> Client : 10813 bytes  (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  1) Server -> Client : 8379 bytes  (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  1) Server -> Client : 8329 bytes  (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  1) Server -> Client : 8233 bytes  (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  1) Server -> Client : 8297 bytes  (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  1) Server -> Client : 15840 bytes  (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  1) Server -> Client : 2002 bytes  (Service=HTTP)
+[Web Request      (1f04:1d58)] "GET /moodle/theme/image.php/afterburner/core/1409244180/i/navigationitem"   
+[Network Analyzer (1f04:1d58)]   (Sid:  3) Client -> Server @ : 442 bytes (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  3) Server -> Client : 714 bytes  (Service=HTTP)
+[Web Request      (1f04:1d58)] "GET /moodle/theme/image.php/afterburner/theme/1409244180/footer/moodle-logo"   
+[Network Analyzer (1f04:1d58)]   (Sid:  2) Client -> Server @ : 445 bytes (Service=HTTP)
+[Web Request      (1f04:1d58)] "GET /moodle/theme/javascript.php/afterburner/1409244180/footer"   
+[Network Analyzer (1f04:1d58)]   (Sid:  4) Client -> Server @ : 404 bytes (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  2) Server -> Client : 2442 bytes  (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  4) Server -> Client : 594 bytes  (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  1) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (1f04:1d58)] "GET /moodle/theme/image.php/afterburner/theme/1409244180/core/h2grad"   
+[Network Analyzer (1f04:1d58)]   (Sid:  1) Client -> Server @ : 438 bytes (Service=HTTP)
+[Web Request      (1f04:1d58)] "GET /moodle/theme/image.php/afterburner/core/1409244180/t/collapsed"   
+[Network Analyzer (1f04:1d58)]   (Sid:  2) Client -> Server @ : 437 bytes (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  1) Server -> Client : 4705 bytes  (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  2) Server -> Client : 632 bytes  (Service=HTTP)
+[Web Request      (1f04:1d58)] "GET /moodle/theme/yui_combo.php?3.5.1/build/oop/oop-min.js&3.5.1/build/event-custom-base/event-custom-base-min.js&3.5.1/build/dom-core/dom-core-min.js&3.5.1/build/dom-base/dom-base-min.js&3.5.1/build/selector-native/selector-native-min.js&3.5.1/build/selector/selector-min.js&3.5.1/build/node-core/node-core-min.js&3.5.1/build/node-base/node-base-min.js&3.5.1/build/event-base/event-base-min.js&3.5.1/build/event-delegate/event-delegate-min.js&3.5.1/build/node-event-delegate/node-event-delegate-min.js&3.5.1/build/pluginhost-base/pluginhost-base-min.js&3.5.1/build/pluginhost-config/pluginhost-config-min.js&3.5.1/build/node-pluginhost/node-pluginhost-min.js&3.5.1/build/dom-style/dom-style-min.js&3.5.1/build/dom-screen/dom-screen-min.js&3.5.1/build/node-screen/node-screen-min.js&3.5.1/build/node-style/node-style-min.js"   
+[Network Analyzer (1f04:1d58)]   (Sid:  4) Client -> Server @ : 1165 bytes (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  4) Server -> Client : 8640 bytes  (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  4) Server -> Client : 14636 bytes  (Service=HTTP)
+[Web Request      (1f04:1d58)] "GET /moodle/lib/javascript.php/1409244180/blocks/dock.js"   
+[Network Analyzer (1f04:1d58)]   (Sid:  4) Client -> Server @ : 398 bytes (Service=HTTP)
+[Web Request      (1f04:1d58)] "GET /moodle/theme/yui_combo.php?3.5.1/build/attribute-core/attribute-core-min.js&3.5.1/build/base-core/base-core-min.js&3.5.1/build/event-custom-complex/event-custom-complex-min.js&3.5.1/build/attribute-events/attribute-events-min.js&3.5.1/build/attribute-extras/attribute-extras-min.js&3.5.1/build/attribute-base/attribute-base-min.js&3.5.1/build/base-base/base-base-min.js&3.5.1/build/base-pluginhost/base-pluginhost-min.js&3.5.1/build/base-build/base-build-min.js&3.5.1/build/event-synthetic/event-synthetic-min.js&3.5.1/build/event-mouseenter/event-mouseenter-min.js&3.5.1/build/event-resize/event-resize-min.js"   
+[Network Analyzer (1f04:1d58)]   (Sid:  1) Client -> Server @ : 957 bytes (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  4) Server -> Client : 6555 bytes  (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  1) Server -> Client : 8640 bytes  (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  1) Server -> Client : 783 bytes  (Service=HTTP)
+[Web Request      (1f04:1d58)] "GET /moodle/theme/image.php/afterburner/core/1409244180/t/dock_to_block"   
+[Network Analyzer (1f04:1d58)]   (Sid:  1) Client -> Server @ : 441 bytes (Service=HTTP)
+[Web Request      (1f04:1d58)] "GET /moodle/theme/yui_combo.php?moodle/1409244180/block_navigation/navigation/navigation.js"   
+[Network Analyzer (1f04:1d58)]   (Sid:  4) Client -> Server @ : 433 bytes (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  1) Server -> Client : 741 bytes  (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  4) Server -> Client : 5601 bytes  (Service=HTTP)
+[Web Request      (1f04:1d58)] "GET /moodle/theme/yui_combo.php?3.5.1/build/querystring-stringify-simple/querystring-stringify-simple-min.js&3.5.1/build/io-base/io-base-min.js&3.5.1/build/json-parse/json-parse-min.js"   
+[Network Analyzer (1f04:1d58)]   (Sid:  4) Client -> Server @ : 526 bytes (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  4) Server -> Client : 3737 bytes  (Service=HTTP)
+[Web Request      (1f04:1d58)] "GET /moodle/theme/image.php/afterburner/core/1409244180/t/block_to_dock"   
+[Network Analyzer (1f04:1d58)]   (Sid:  4) Client -> Server @ : 441 bytes (Service=HTTP)
+[Web Request      (1f04:1d58)] "GET /moodle/theme/yui_combo.php?moodle/1409244180/calendar/eventmanager/eventmanager.js"   
+[Network Analyzer (1f04:1d58)]   (Sid:  1) Client -> Server @ : 429 bytes (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  4) Server -> Client : 739 bytes  (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  1) Server -> Client : 1797 bytes  (Service=HTTP)
+[Web Request      (1f04:1d58)] "GET /moodle/theme/yui_combo.php?3.5.1/build/overlay/assets/skins/sam/overlay.css&3.5.1/build/widget-base/assets/skins/sam/widget-base.css&3.5.1/build/widget-stack/assets/skins/sam/widget-stack.css&3.5.1/build/test/assets/skins/sam/test.css&moodle/1409244180/calendar/eventmanager/eventmanager.css"   
+[Network Analyzer (1f04:1d58)]   (Sid:  1) Client -> Server @ : 618 bytes (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  1) Server -> Client : 1141 bytes  (Service=HTTP)
+[Web Request      (1f04:1d58)] "GET /moodle/theme/yui_combo.php?3.5.1/build/attribute-complex/attribute-complex-min.js&3.5.1/build/classnamemanager/classnamemanager-min.js&3.5.1/build/event-focus/event-focus-min.js&3.5.1/build/widget-base/widget-base-min.js&3.5.1/build/widget-htmlparser/widget-htmlparser-min.js&3.5.1/build/widget-skin/widget-skin-min.js&3.5.1/build/widget-uievents/widget-uievents-min.js&3.5.1/build/widget-stdmod/widget-stdmod-min.js&3.5.1/build/widget-position/widget-position-min.js&3.5.1/build/widget-position-align/widget-position-align-min.js&3.5.1/build/widget-stack/widget-stack-min.js&3.5.1/build/widget-position-constrain/widget-position-constrain-min.js&3.5.1/build/overlay/overlay-min.js&3.5.1/build/event-simulate/event-simulate-min.js&3.5.1/build/substitute/substitute-min.js&3.5.1/build/json-stringify/json-stringify-min.js&3.5.1/build/test/test-min.js"   
+[Network Analyzer (1f04:1d58)]   (Sid:  1) Client -> Server @ : 1196 bytes (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  1) Server -> Client : 8640 bytes  (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  1) Server -> Client : 11827 bytes  (Service=HTTP)
+[Web Request      (1f04:1d58)] "GET /moodle/theme/image.php/afterburner/core/1409244180/t/switch_minus"   
+[Network Analyzer (1f04:1d58)]   (Sid:  1) Client -> Server @ : 440 bytes (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  1) Server -> Client : 621 bytes  (Service=HTTP)
+[Web Request      (1f04:1d58)] "GET /moodle/theme/image.php/afterburner/core/1409244180/t/switch_plus"   
+[Network Analyzer (1f04:1d58)]   (Sid:  1) Client -> Server @ : 439 bytes (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  1) Server -> Client : 625 bytes  (Service=HTTP)
+[Network Analyzer ( bac:16c4)] ------------------------------------------------------------------------------------------
+[Network Analyzer ( bac:16c4)] Load Network Traffic Analyzers:
+[Network Analyzer ( bac:16c4)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer ( bac:16c4)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer ( bac:16c4)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer ( bac:16c4)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer ( bac:16c4)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer ( bac:16c4)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer ( bac:16c4)]     Analyzer Module: local_server (value=)
+[Network Analyzer ( bac:16c4)] ------------------------------------------------------------------------------------------
+[Network Analyzer (1f04:1d58)]   (Sid:  3) Connection Terminated (by Server)
+[Network Analyzer ( bac: f28)] Address lookup for Lenovo-PC = 169.254.120.80
+[Net An. Debug    ( bac: f28)] IP address belongs to the VirtualBox, taking the another interface with ip=192.168.0.4
+[Network Analyzer (1f04:1d58)]   (Sid:  2) Connection Terminated (by Server)
+[Network Analyzer (1f04:1d58)]   (Sid:  4) Connection Terminated (by Server)
+[Network Analyzer ( bac:1f00)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 80  (Service=)  (Sid=  1)  PROXIED!
+[Web Request      ( bac:16d0)] "GET /moodle/theme/image.php/afterburner/theme/1409244180/favicon"   
+[Network Analyzer ( bac:16d0)]   (Sid:  1) Client -> Server @ : 274 bytes (Service=HTTP)
+[Network Analyzer ( bac:16c4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 80  (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer ( bac:16d0)]   (Sid:  1) Server -> Client : 1407 bytes  (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  1) Connection Terminated (by Server)
+[Network Analyzer ( bac:16d0)]   (Sid:  1) Connection Terminated (by Server)
+[User action                 ] StartTransactionEvent Click Login [Network Analyzer ( bac:19dc)] Address lookup for Lenovo-PC = 169.254.120.80
+[Network Analyzer ( bac:19dc)] Request Connection: Remote Server @ 93.184.221.200:443   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer ( bac:2950)] Address lookup for Lenovo-PC = 169.254.120.80
+[Network Analyzer ( bac:2950)] Request Connection: Remote Server @ 93.184.221.200:443   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer (1f04:1d58)]   (Sid:  5) Connection Terminated (by Client)
+[Network Analyzer (1f04:1ef8)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 80  (Service=)  (Sid=  6)  PROXIED!
+[Web Request      (1f04:1d58)] "GET /moodle/login/index.php"   
+[Network Analyzer (1f04:1d58)]   (Sid:  6) Client -> Server @ : 384 bytes (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  6) Server -> Client : 8640 bytes  (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  6) Server -> Client : 8740 bytes  (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  6) Server -> Client : 6063 bytes  (Service=HTTP)
+[Network Analyzer ( bac:2700)]   (Sid:  3) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES256-SHA)
+[Network Analyzer ( bac:1e10)]   (Sid:  4) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES256-SHA)
+[Web Request      (1f04:1d58)] "GET /moodle/theme/image.php/afterburner/core/1409244180/help"   
+[Network Analyzer (1f04:1d58)]   (Sid:  6) Client -> Server @ : 445 bytes (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  6) Server -> Client : 1260 bytes  (Service=HTTP)
+[Network Analyzer ( bac:2700)]   (Sid:  3) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer ( bac:1e10)]   (Sid:  4) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Web Request      ( bac: f28)] "GET /IE11/1478281996/iecompatviewlist.xml"   
+[Network Analyzer ( bac: f28)]   (Sid:  3) Client -> Server @ : 702 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( bac: f28)]   (Sid:  3) Server -> Client : 467 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( bac: f28)]   (Sid:  3) Server -> Client : 16383 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( bac: f28)]   (Sid:  3) Server -> Client : 11640 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  6) Connection Terminated (by Server)
+[User action                 ] EndTransactionEvent Click Login [User action                 ] StartTransactionEvent Click Create new account [Network Analyzer (1f04:227c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 80  (Service=)  (Sid=  7)  PROXIED!
+[Web Request      (1f04:1d58)] "GET /moodle/login/signup.php"   
+[Network Analyzer (1f04:1d58)]   (Sid:  7) Client -> Server @ : 400 bytes (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  7) Server -> Client : 14400 bytes  (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  7) Server -> Client : 3115 bytes  (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  7) Server -> Client : 14958 bytes  (Service=HTTP)
+[Network Analyzer (1f04:1ef8)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 80  (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer (1f04:1d58)]   (Sid:  7) Server -> Client : 2567 bytes  (Service=HTTP)
+[Web Request      (1f04:1d58)] "GET /moodle/theme/image.php/afterburner/core/1409244180/req"   
+[Network Analyzer (1f04:1d58)]   (Sid:  8) Client -> Server @ : 445 bytes (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  8) Server -> Client : 612 bytes  (Service=HTTP)
+[Web Request      (1f04:1d58)] "GET /moodle/theme/yui_combo.php?moodle/1409244180/core/formchangechecker/formchangechecker.js"   
+[Network Analyzer (1f04:1d58)]   (Sid:  7) Client -> Server @ : 451 bytes (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  7) Server -> Client : 2535 bytes  (Service=HTTP)
+[Web Request      (1f04:1d58)] "GET /moodle/theme/yui_combo.php?3.5.1/build/attribute-core/attribute-core-min.js&3.5.1/build/base-core/base-core-min.js&3.5.1/build/event-custom-complex/event-custom-complex-min.js&3.5.1/build/attribute-events/attribute-events-min.js&3.5.1/build/attribute-extras/attribute-extras-min.js&3.5.1/build/attribute-base/attribute-base-min.js&3.5.1/build/base-base/base-base-min.js&3.5.1/build/base-build/base-build-min.js&3.5.1/build/base-pluginhost/base-pluginhost-min.js"   
+[Network Analyzer (1f04:1d58)]   (Sid:  7) Client -> Server @ : 824 bytes (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  7) Server -> Client : 7306 bytes  (Service=HTTP)
+[Web Request      (1f04:1d58)] "GET /moodle/theme/yui_combo.php?moodle/1409244180/form/passwordunmask/passwordunmask.js"   
+[Network Analyzer (1f04:1d58)]   (Sid:  7) Client -> Server @ : 445 bytes (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  7) Server -> Client : 1211 bytes  (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  8) Connection Terminated (by Server)
+[Network Analyzer (1f04:1d58)]   (Sid:  7) Connection Terminated (by Server)
+[User action                 ] EndTransactionEvent Click Create new account [Network Analyzer ( bac: f28)]   (Sid:  4) Connection Terminated (by Server)
+[Network Analyzer ( bac:16d0)]   (Sid:  2) Connection Terminated (by Client)
+[User action                 ] StartTransactionEvent Submite new account details [Network Analyzer (1f04:2ee4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 80  (Service=)  (Sid=  9)  PROXIED!
+[Web Request      (1f04:1d58)] "POST /moodle/login/signup.php"   
+[Network Analyzer (1f04:1d58)]   (Sid:  9) Client -> Server @ : 713 bytes (Service=HTTP)
+[Network Analyzer (1f04:2ee4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 80  (Service=)  (Sid= 10)  PROXIED!
+[Network Analyzer (1f04:1d58)]   (Sid:  9) Server -> Client : 14400 bytes  (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  9) Server -> Client : 3001 bytes  (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  9) Server -> Client : 2570 bytes  (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid:  9) Connection Terminated (by Server)
+[Network Analyzer ( bac: f28)]   (Sid:  3) Connection Terminated (by Client)
+[User action                 ] EndTransactionEvent Submite new account details [Network Analyzer (1f04:1d58)]   (Sid: 10) Connection Terminated (by Client)
+[User action                 ] StartTransactionEvent Click Continue [Network Analyzer (1f04:2ee4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 80  (Service=)  (Sid= 11)  PROXIED!
+[Web Request      (1f04:1d58)] "GET /moodle/index.php"   
+[Network Analyzer (1f04:1d58)]   (Sid: 11) Client -> Server @ : 394 bytes (Service=HTTP)
+[Network Analyzer (1f04:1ef8)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 80  (Service=)  (Sid= 12)  PROXIED!
+[Network Analyzer (1f04:1d58)]   (Sid: 11) Server -> Client : 7200 bytes  (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid: 11) Server -> Client : 10244 bytes  (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid: 11) Server -> Client : 8422 bytes  (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid: 11) Server -> Client : 8227 bytes  (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid: 11) Server -> Client : 8442 bytes  (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid: 11) Server -> Client : 8394 bytes  (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid: 11) Server -> Client : 8379 bytes  (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid: 11) Server -> Client : 8329 bytes  (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid: 11) Server -> Client : 8233 bytes  (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid: 11) Server -> Client : 8297 bytes  (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid: 11) Server -> Client : 14400 bytes  (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid: 11) Server -> Client : 3442 bytes  (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid: 11) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (1f04:1d58)]   (Sid: 11) Connection Terminated (by Server)
+[User action                 ] EndTransactionEvent Click Continue 

@@ -1,0 +1,11 @@
+[t111]
+FileName1=t111_head.html
+URL1=http://localhost/moodle/theme/javascript.php/afterburner/1409244180/head
+Total=1
+ContentType=application/javascript
+SnapshotXmlFile=snapshot_111.xml
+RequestHeaderFile=t111_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t111_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

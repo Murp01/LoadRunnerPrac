@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\paul\Documents\VuGen\Scripts v01.00\03_HTML_Login2Actions
+-IC:\Program Files (x86)\HPE\LoadRunner\include
+-ec:\users\paul\documents\vugen\scripts v01.00\03_html_login2actions\\logfile.log
+c:\users\paul\documents\vugen\scripts v01.00\03_html_login2actions\\combined_03_HTML_Login2Actions.c
+c:\users\paul\documents\vugen\scripts v01.00\03_html_login2actions\\pre_cci.c

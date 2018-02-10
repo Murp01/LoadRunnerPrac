@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Date: Thu, 25 Jan 2018 22:01:23 GMT
+Server: Apache/2.4.7 (Win32) OpenSSL/0.9.8y PHP/5.4.22
+X-Powered-By: PHP/5.4.22
+Etag: f683419f741f7214800d9752010d43b648249ce9
+Content-Disposition: inline; filename="expanded.png"
+Last-Modified: Fri, 29 Dec 2017 00:32:20 GMT
+Expires: Mon, 26 Mar 2018 22:01:23 GMT
+Pragma: 
+Cache-Control: public, max-age=5184000
+Accept-Ranges: none
+Content-Length: 130
+Keep-Alive: timeout=5, max=99
+Connection: Keep-Alive
+Content-Type: image/png
+

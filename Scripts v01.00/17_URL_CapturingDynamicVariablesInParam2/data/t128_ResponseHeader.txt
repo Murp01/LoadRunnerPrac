@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Date: Fri, 02 Feb 2018 17:56:20 GMT
+Server: Apache/2.4.7 (Win32) OpenSSL/0.9.8y PHP/5.4.22
+X-Powered-By: PHP/5.4.22
+Etag: 1fea08e738d87f1e1570b101aac76899c2c2d893
+Content-Disposition: inline; filename="withoutkey.png"
+Last-Modified: Thu, 28 Dec 2017 14:40:52 GMT
+Expires: Tue, 03 Apr 2018 17:56:20 GMT
+Pragma: 
+Cache-Control: public, max-age=5184000
+Accept-Ranges: none
+Content-Length: 675
+Keep-Alive: timeout=5, max=96
+Connection: Keep-Alive
+Content-Type: image/png
+

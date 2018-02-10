@@ -1,0 +1,11 @@
+[t7]
+FileName1=t7_javascript-static.html
+URL1=http://localhost/moodle/lib/javascript.php/1409244180/lib/javascript-static.js
+Total=1
+ContentType=application/javascript
+SnapshotXmlFile=snapshot_7.xml
+RequestHeaderFile=t7_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t7_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

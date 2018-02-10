@@ -1,0 +1,16 @@
+[t5]
+SnapshotXmlFile=snapshot_4.xml
+ContentType=text/html
+StepName=Url: signup.php
+Total=2
+FileName1=t5.html
+FileName2=t4_0_image.png
+RequestHeaderFile=t5_RequestHeader.txt
+SaveSnapshotResources=1
+ResponseHeaderFile=t5_ResponseHeader.txt
+RawStepEndTime=0
+RawStepName=signup.php
+RequestBodyFile=t5_RequestBody.txt
+RawStepStartTime=1518254412751
+URL1=http://localhost/moodle/login/signup.php
+URL2=http://localhost/moodle/theme/image.php/afterburner/core/1409244180/help

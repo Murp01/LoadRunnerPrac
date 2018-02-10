@@ -1,0 +1,10 @@
+GET /moodle/theme/yui_combo.php?2.9.0/build/assets/skins/sam/skin.css HTTP/1.1
+Accept: text/css, */*
+Referer: http://localhost/moodle/
+Accept-Language: en-GB,en-US;q=0.7,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: localhost
+Connection: Keep-Alive
+Cookie: MoodleSession=anf6r2tlkvgijaa7bub0e3va14
+

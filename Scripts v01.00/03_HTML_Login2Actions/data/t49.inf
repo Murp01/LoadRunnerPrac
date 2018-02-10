@@ -1,0 +1,13 @@
+[t49]
+FileName1=t49.html
+URL1=http://localhost/moodle/login/index.php
+Total=2
+RequestHeaderFile=t49_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t49_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_49.xml
+FileName2=t49_help.png
+URL2=http://localhost/moodle/theme/image.php/afterburner/core/1409244180/help
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Date: Sun, 14 Jan 2018 22:10:31 GMT
+Server: Apache/2.4.7 (Win32) OpenSSL/0.9.8y PHP/5.4.22
+X-Powered-By: PHP/5.4.22
+Etag: 4f2671bb2abf1fdd6a624fee5293f2502af07a39
+Content-Disposition: inline; filename="light3.png"
+Last-Modified: Thu, 28 Dec 2017 14:40:58 GMT
+Expires: Thu, 15 Mar 2018 22:10:31 GMT
+Pragma: 
+Cache-Control: public, max-age=5184000
+Accept-Ranges: none
+Content-Length: 10315
+Keep-Alive: timeout=5, max=98
+Connection: Keep-Alive
+Content-Type: image/png
+

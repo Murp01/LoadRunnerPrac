@@ -1,0 +1,27 @@
+[
+    {
+        "transactionName": "Log_into_Profile",
+        "rawStartTime": 1515971671693,
+        "rawEndTime": 1515971680453
+    },
+    {
+        "transactionName": "Log_out_of_profile",
+        "rawStartTime": 1515971680456,
+        "rawEndTime": 1515971690552
+    },
+    {
+        "transactionName": "Log_in_to_profile",
+        "rawStartTime": 1515971690571,
+        "rawEndTime": 1515971698281
+    },
+    {
+        "transactionName": "Click_on_course",
+        "rawStartTime": 1515971698286,
+        "rawEndTime": 1515971698314
+    },
+    {
+        "transactionName": "Log_out_of_Profile",
+        "rawStartTime": 1515971665424,
+        "rawEndTime": 1515971698314
+    }
+]

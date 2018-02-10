@@ -1,0 +1,11 @@
+[t121]
+FileName1=t121_yui_combo.css
+URL1=http://localhost/moodle/theme/yui_combo.php?3.5.1/build/cssreset/reset-min.css&3.5.1/build/cssfonts/fonts-min.css&3.5.1/build/cssgrids/grids-min.css&3.5.1/build/cssbase/base-min.css
+Total=1
+ContentType=text/css
+SnapshotXmlFile=snapshot_121.xml
+RequestHeaderFile=t121_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t121_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Date: Sun, 14 Jan 2018 22:10:36 GMT
+Server: Apache/2.4.7 (Win32) OpenSSL/0.9.8y PHP/5.4.22
+X-Powered-By: PHP/5.4.22
+Etag: 2772b524d13b7f804f817945ecd448ece0c15453
+Content-Disposition: inline; filename="collapsed.png"
+Last-Modified: Thu, 28 Dec 2017 14:41:00 GMT
+Expires: Thu, 15 Mar 2018 22:10:36 GMT
+Pragma: 
+Cache-Control: public, max-age=5184000
+Accept-Ranges: none
+Content-Length: 133
+Keep-Alive: timeout=5, max=99
+Connection: Keep-Alive
+Content-Type: image/png
+

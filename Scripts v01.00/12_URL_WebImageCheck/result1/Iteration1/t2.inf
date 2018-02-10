@@ -1,0 +1,14 @@
+[t2]
+SnapshotXmlFile=snapshot_2.xml
+ContentType=text/html
+StepName=Url: bground
+Total=1
+FileName1=t2_0_image.jpe
+RequestHeaderFile=t2_RequestHeader.txt
+SaveSnapshotResources=1
+ResponseHeaderFile=t2_ResponseHeader.txt
+RawStepEndTime=1517560653784
+RawStepName=bground
+RequestBodyFile=t2_RequestBody.txt
+RawStepStartTime=1517560653676
+URL1=http://localhost/moodle/theme/image.php/afterburner/theme/1409244180/core/bground

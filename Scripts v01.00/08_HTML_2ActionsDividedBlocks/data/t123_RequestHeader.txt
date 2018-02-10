@@ -1,0 +1,10 @@
+GET /moodle/theme/yui_combo.php?moodle/1409244180/block_navigation/navigation/navigation.js HTTP/1.1
+Accept: application/javascript, */*;q=0.8
+Referer: http://localhost/moodle/
+Accept-Language: en-GB,en-US;q=0.7,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: localhost
+Connection: Keep-Alive
+Cookie: MoodleSession=k8stss6d0ph6e3ch3urb9j4u55
+

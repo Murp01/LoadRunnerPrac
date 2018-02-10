@@ -1,0 +1,44 @@
+[
+    {
+        "stepId": "STEP1",
+        "stepName": "Url: moodle",
+        "infFile": "t1.inf",
+        "time": 1517560653601
+    },
+    {
+        "stepId": "STEP2",
+        "stepName": "Url: bground",
+        "infFile": "t2.inf",
+        "time": 1517560653806
+    },
+    {
+        "stepId": "STEP3",
+        "stepName": "Url: index.php",
+        "infFile": "t5.inf",
+        "time": 1517560655958
+    },
+    {
+        "stepId": "STEP4",
+        "stepName": "Url: help",
+        "infFile": "t6.inf",
+        "time": 1517560656064
+    },
+    {
+        "stepId": "STEP5",
+        "stepName": "Submit Data: index.php_2",
+        "infFile": "t7.inf",
+        "time": 1517560676231
+    },
+    {
+        "stepId": "STEP6",
+        "stepName": "Url: Test Course100",
+        "infFile": "t8.inf",
+        "time": 1517560680503
+    },
+    {
+        "stepId": "STEP7",
+        "stepName": "Url: Logout",
+        "infFile": "t9.inf",
+        "time": 1517560682647
+    }
+]

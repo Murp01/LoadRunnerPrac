@@ -1,0 +1,3 @@
+"sesskey=yzo57Qarsi&_qf__login_signup_form=1&username=teachers1&password=Welcomes1%21&email=tes"
+"t@test.com&email2=test@test.com&firstname=John&lastname=Parry&city=Liverpool&country=GB&submit"
+"button=Create+my+new+account"

@@ -1,0 +1,11 @@
+[t64]
+FileName1=t64_yui_combo.html
+URL1=http://localhost/moodle/theme/yui_combo.php?3.5.1/build/yui/yui-min.js
+Total=1
+ContentType=application/javascript
+SnapshotXmlFile=snapshot_64.xml
+RequestHeaderFile=t64_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t64_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,12 @@
+[
+    {
+        "transactionName": "Log_into_Profile",
+        "rawStartTime": 1515965424340,
+        "rawEndTime": 1515965439776
+    },
+    {
+        "transactionName": "Log_out_of_profile",
+        "rawStartTime": 1515965439780,
+        "rawEndTime": 1515965445549
+    }
+]

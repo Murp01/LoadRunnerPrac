@@ -1,0 +1,11 @@
+[t132]
+FileName1=t132_iecompatviewlist.xml
+URL1=https://iecvlist.microsoft.com/IE11/1478281996/iecompatviewlist.xml
+Total=1
+ContentType=text/xml
+SnapshotXmlFile=snapshot_132.xml
+RequestHeaderFile=t132_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t132_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

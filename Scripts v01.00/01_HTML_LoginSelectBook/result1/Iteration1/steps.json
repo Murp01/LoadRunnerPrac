@@ -1,0 +1,20 @@
+[
+    {
+        "stepId": "STEP3",
+        "stepName": "Url: index.php",
+        "infFile": "t3.inf",
+        "time": 1515965426227
+    },
+    {
+        "stepId": "STEP4",
+        "stepName": "Submit Form: index.php_2",
+        "infFile": "t4.inf",
+        "time": 1515965439772
+    },
+    {
+        "stepId": "STEP5",
+        "stepName": "Link: Logout",
+        "infFile": "t5.inf",
+        "time": 1515965445546
+    }
+]
